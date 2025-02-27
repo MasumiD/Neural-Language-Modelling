@@ -1,0 +1,4010 @@
+Perplexity Report (Test)
+Corpus: ulysses | Model: -r | N-gram: 3
+==================================================
+
+Average Perplexity: 12746.4317
+
+==================================================
+Individual Sentence Scores:
+==================================================
+
+Sentence 1:
+Text: START I put it to you that He ’ s on the square and a corking fine business proposition . END
+Perplexity: 242.1763
+
+Sentence 2:
+Text: START If he considers it important it will go in . END
+Perplexity: 572.2143
+
+Sentence 3:
+Text: START Enough of this place . END
+Perplexity: 35.0517
+
+Sentence 4:
+Text: START SECOND WATCH : _ ( Points to the corner . ) _ The bomb is here . END
+Perplexity: 28.2164
+
+Sentence 5:
+Text: START I dare him , says he , and I doubledare him . END
+Perplexity: 34.2663
+
+Sentence 6:
+Text: START Miss Kennedy sauntered sadly from bright light , twining a loose hair behind an ear . END
+Perplexity: 1077.9519
+
+Sentence 7:
+Text: START — That I had , he said , pushing it by . END
+Perplexity: 51.7906
+
+Sentence 8:
+Text: START Today . END
+Perplexity: 1.7854
+
+Sentence 9:
+Text: START J ... END
+Perplexity: 71.5574
+
+Sentence 10:
+Text: START I say , Hynes ! END
+Perplexity: 102.2289
+
+Sentence 11:
+Text: START Dust slept on dull coils of bronze and silver , lozenges of cinnabar , on rubies , leprous and winedark stones . END
+Perplexity: 2409.7095
+
+Sentence 12:
+Text: START Stop . END
+Perplexity: 2.5113
+
+Sentence 13:
+Text: START THE NYMPH : _ ( With a cry flees from him unveiled , her plaster cast cracking , a cloud of stench escaping from the cracks . ) _ Poli ... ! END
+Perplexity: 567.0194
+
+Sentence 14:
+Text: START _Poor little Paddy Dignam _ , he said . END
+Perplexity: 31.2233
+
+Sentence 15:
+Text: START That brought us out of the land of Egypt and into the house of bondage . END
+Perplexity: 24.5371
+
+Sentence 16:
+Text: START With faraway mourning mountain eye . END
+Perplexity: 9717.1279
+
+Sentence 17:
+Text: START Chardenal ’ s French primer . END
+Perplexity: 76.1712
+
+Sentence 18:
+Text: START And he got them out as quick as he could , Jack Power and Crofton or whatever you call him and him in the middle of them letting on to be all at sea and up with them on the bloody jaunting car . END
+Perplexity: 86.9617
+
+Sentence 19:
+Text: START A ponderous Saxon . END
+Perplexity: 1754.1571
+
+Sentence 20:
+Text: START Or a lilt . END
+Perplexity: 147.7546
+
+Sentence 21:
+Text: START That worthy picking up the scent of the fagend of the song or words growled in wouldbe music but with great vim some kind of chanty or other in seconds or thirds . END
+Perplexity: 1272.8551
+
+Sentence 22:
+Text: START Were you in the Scotch house now ? END
+Perplexity: 60.3955
+
+Sentence 23:
+Text: START The tentacles ... END
+Perplexity: 9723.1074
+
+Sentence 24:
+Text: START Sinn Fein . END
+Perplexity: 2.1645
+
+Sentence 25:
+Text: START I say so . END
+Perplexity: 22.9468
+
+Sentence 26:
+Text: START Poetical idea : pink , then golden , then grey , then black . END
+Perplexity: 307.9622
+
+Sentence 27:
+Text: START Or ? END
+Perplexity: 14.5045
+
+Sentence 28:
+Text: START Airs romped round him , nipping and eager airs . END
+Perplexity: 3147.9727
+
+Sentence 29:
+Text: START From drains , clefts , cesspools , middens arise on all sides stagnant fumes . END
+Perplexity: 5499.7358
+
+Sentence 30:
+Text: START A wariness of mind he would answer as fitted all and , laying hand to jaw , he said dissembling , as his wont was , that as it was informed him , who had ever loved the art of physic as might a layman , and agreeing also with his experience of so seldomseen an accident it was good for that mother Church belike at one blow had birth and death pence and in such sort deliverly he scaped their questions . END
+Perplexity: 1467.7904
+
+Sentence 31:
+Text: START He smiled on all sides equally . END
+Perplexity: 94.3279
+
+Sentence 32:
+Text: START Read Tacitus and Ptolemy , even Giraldus Cambrensis . END
+Perplexity: 89679.4062
+
+Sentence 33:
+Text: START Across the page the symbols moved in grave morrice , in the mummery of their letters , wearing quaint caps of squares and cubes . END
+Perplexity: 1246.3529
+
+Sentence 34:
+Text: START Staggering bob . END
+Perplexity: 233.9073
+
+Sentence 35:
+Text: START Aftereffect not pleasant . END
+Perplexity: 167.2849
+
+Sentence 36:
+Text: START A dark back went before them , step of a pard , down , out by the gateway , under portcullis barbs . END
+Perplexity: 911.5356
+
+Sentence 37:
+Text: START Other I got pound . END
+Perplexity: 366.7641
+
+Sentence 38:
+Text: START Ant milks aphis . END
+Perplexity: 110413.0156
+
+Sentence 39:
+Text: START He brightens the earth . END
+Perplexity: 353.4623
+
+Sentence 40:
+Text: START He followed his guest to the outlet and then whirled his lath away among the pillars . END
+Perplexity: 359.7238
+
+Sentence 41:
+Text: START Eight for a penny ! END
+Perplexity: 47.0372
+
+Sentence 42:
+Text: START The Katty Lanner step . END
+Perplexity: 1856.8435
+
+Sentence 43:
+Text: START August bank holiday , only two and six return . END
+Perplexity: 384.9115
+
+Sentence 44:
+Text: START He came nearer and heard a crunching of gilded oats , the gently champing teeth . END
+Perplexity: 840.2266
+
+Sentence 45:
+Text: START Cuffe sold them about twentyseven quid each . END
+Perplexity: 2972.2261
+
+Sentence 46:
+Text: START Now I eat his salt bread . END
+Perplexity: 291.2816
+
+Sentence 47:
+Text: START — Bottles out there , say . END
+Perplexity: 432.1789
+
+Sentence 48:
+Text: START The gravediggers put on their caps and carried their earthy spades towards the barrow . END
+Perplexity: 619.8398
+
+Sentence 49:
+Text: START The husband was a captain or an officer . END
+Perplexity: 195.3278
+
+Sentence 50:
+Text: START Woman and man that is . END
+Perplexity: 33.8887
+
+Sentence 51:
+Text: START Sing , birdy , sing . END
+Perplexity: 690.3002
+
+Sentence 52:
+Text: START Wonder why they come out at night like mice . END
+Perplexity: 122.0940
+
+Sentence 53:
+Text: START MRS YELVERTON BARRY : Disgraceful ! END
+Perplexity: 77.5883
+
+Sentence 54:
+Text: START Good idea the repetition . END
+Perplexity: 147.4852
+
+Sentence 55:
+Text: START And says she and says he . END
+Perplexity: 33.5531
+
+Sentence 56:
+Text: START His eyes grow dull , darker and pouched , his nose thickens . ) _ BLOOM : _ ( Mumbles . ) _ Awaiting your further orders we remain , gentlemen , ... END
+Perplexity: 339.0379
+
+Sentence 57:
+Text: START Weeping willow . END
+Perplexity: 373.8565
+
+Sentence 58:
+Text: START Play on her heartstrings pursestrings too . END
+Perplexity: 3410.9060
+
+Sentence 59:
+Text: START _Sufflaminandus sum . _ — He was made in Germany , Stephen replied , as the champion French polisher of Italian scandals . END
+Perplexity: 369.2429
+
+Sentence 60:
+Text: START For Bloom . END
+Perplexity: 39.5168
+
+Sentence 61:
+Text: START It ’ s rather interesting because professor Pokorny of Vienna makes an interesting point out of that . END
+Perplexity: 554.1547
+
+Sentence 62:
+Text: START — All on the baker ’ s list , Mrs Breen said . END
+Perplexity: 43.1827
+
+Sentence 63:
+Text: START O yes , we ’ ll have all topnobbers . END
+Perplexity: 92.4477
+
+Sentence 64:
+Text: START Both satisfied . END
+Perplexity: 95.5320
+
+Sentence 65:
+Text: START He ’ s a whitearsed bugger . END
+Perplexity: 250.2341
+
+Sentence 66:
+Text: START Found drowned . END
+Perplexity: 219.3665
+
+Sentence 67:
+Text: START The floor is covered with an oilcloth mosaic of jade and azure and cinnabar rhomboids . END
+Perplexity: 8260.6572
+
+Sentence 68:
+Text: START Blmstup . END
+Perplexity: 2.7669
+
+Sentence 69:
+Text: START You bitch ’ s bast . END
+Perplexity: 411.8858
+
+Sentence 70:
+Text: START M . ; the rev . END
+Perplexity: 5.1492
+
+Sentence 71:
+Text: START I declare , I was never so touched in all my life . END
+Perplexity: 118.2665
+
+Sentence 72:
+Text: START Stephen listened in scornful silence . END
+Perplexity: 202.0160
+
+Sentence 73:
+Text: START The bloodboltered shambles in act five is a forecast of the concentration camp sung by Mr Swinburne . END
+Perplexity: 6708.0898
+
+Sentence 74:
+Text: START And at an instant the most momentous that can befall a puny child of clay ? END
+Perplexity: 2062.9695
+
+Sentence 75:
+Text: START The maid was in the garden . END
+Perplexity: 97.4165
+
+Sentence 76:
+Text: START O , Mairy lost the string of her . END
+Perplexity: 46.7001
+
+Sentence 77:
+Text: START Martin of Todi and S . END
+Perplexity: 421.3759
+
+Sentence 78:
+Text: START And you can see the darkness in their eyes . END
+Perplexity: 48.4083
+
+Sentence 79:
+Text: START She ’ s three days bad now . END
+Perplexity: 80.5166
+
+Sentence 80:
+Text: START Wylie , A . END
+Perplexity: 42.1119
+
+Sentence 81:
+Text: START Vyfor you no me tell ? END
+Perplexity: 308.3541
+
+Sentence 82:
+Text: START We eat electric light . END
+Perplexity: 936.1225
+
+Sentence 83:
+Text: START To reflect that each one who enters imagines himself to be the first to enter whereas he is always the last term of a preceding series even if the first term of a succeeding one , each imagining himself to be first , last , only and alone whereas he is neither first nor last nor only nor alone in a series originating in and repeated to infinity . END
+Perplexity: 892.0914
+
+Sentence 84:
+Text: START The gardens of Alameda knew her step : the garths of olives knew and bowed . END
+Perplexity: 1579.4747
+
+Sentence 85:
+Text: START Quick , far and daring . END
+Perplexity: 439.6519
+
+Sentence 86:
+Text: START Where ’ s Dilly ? END
+Perplexity: 35.9940
+
+Sentence 87:
+Text: START Trouble for nothing . END
+Perplexity: 22.7883
+
+Sentence 88:
+Text: START Make a picnic of it . END
+Perplexity: 37.2338
+
+Sentence 89:
+Text: START Bloo . END
+Perplexity: 3.3101
+
+Sentence 90:
+Text: START Lubber ... END
+Perplexity: 37.3458
+
+Sentence 91:
+Text: START He mounted to the parapet again and gazed out over Dublin bay , his fair oakpale hair stirring slightly . END
+Perplexity: 2116.9043
+
+Sentence 92:
+Text: START Pillar of salt . END
+Perplexity: 22.3299
+
+Sentence 93:
+Text: START His gaze turned at once but slowly from J . END
+Perplexity: 106.1812
+
+Sentence 94:
+Text: START That ’ s the vital issue at stake and it ’ s feasible and would be provocative of friendlier intercourse between man and man . END
+Perplexity: 1333.2693
+
+Sentence 95:
+Text: START Clings to everything she takes off . END
+Perplexity: 141.1403
+
+Sentence 96:
+Text: START Doublebasses helpless , gashes in their sides . END
+Perplexity: 3305.3298
+
+Sentence 97:
+Text: START — That cursed dyspepsia , he said before drinking . END
+Perplexity: 717.0016
+
+Sentence 98:
+Text: START — Don ’ t carry it like that , Mr Deasy said . END
+Perplexity: 17.6662
+
+Sentence 99:
+Text: START He trod the worn steps , pushed the swingdoor and entered softly by the rere . END
+Perplexity: 630.0934
+
+Sentence 100:
+Text: START His smile faded as he walked , a heavy cloud hiding the sun slowly , shadowing Trinity ’ s surly front . END
+Perplexity: 1050.3905
+
+Sentence 101:
+Text: START Rip van Winkle ! END
+Perplexity: 5.1040
+
+Sentence 102:
+Text: START FIRST WATCH : _ ( Turns to the crowd . ) _ Here , what are you all gaping at ? END
+Perplexity: 29.7408
+
+Sentence 103:
+Text: START M . END
+Perplexity: 2.1055
+
+Sentence 104:
+Text: START — Ay , ay , Mr Dedalus nodded . END
+Perplexity: 13.5463
+
+Sentence 105:
+Text: START His back trouserbutton snaps . ) _ THE BUTTON : Bip ! END
+Perplexity: 2016.8555
+
+Sentence 106:
+Text: START BLOOM : _ ( Bows . ) _ Master ! END
+Perplexity: 43.0065
+
+Sentence 107:
+Text: START Do you want to cross ? END
+Perplexity: 13.3033
+
+Sentence 108:
+Text: START Small nines . END
+Perplexity: 379.1101
+
+Sentence 109:
+Text: START — You know yourself , councillor , just what he wants . END
+Perplexity: 58.7293
+
+Sentence 110:
+Text: START He is about to have a baby . END
+Perplexity: 45.1165
+
+Sentence 111:
+Text: START All want to be on good terms with him . END
+Perplexity: 92.0683
+
+Sentence 112:
+Text: START Tiptop position for a pub . END
+Perplexity: 272.4689
+
+Sentence 113:
+Text: START Cruel it seems . END
+Perplexity: 39.8879
+
+Sentence 114:
+Text: START Denis Breen with his tomes , weary of having waited an hour in John Henry Menton ’ s office , led his wife over O ’ Connell bridge , bound for the office of Messrs Collis and Ward . END
+Perplexity: 118.8534
+
+Sentence 115:
+Text: START _ ( At the corner of Beaver street beneath the scaffolding Bloom panting stops on the fringe of the noisy quarrelling knot , a lot not knowing a jot what hi ! END
+Perplexity: 779.5677
+
+Sentence 116:
+Text: START Streams of tendency and eons they worship . END
+Perplexity: 867.0298
+
+Sentence 117:
+Text: START Onions . END
+Perplexity: 3.7367
+
+Sentence 118:
+Text: START _ ( He throws a shilling on the table and starts . ) _ That ’ s for the chimney . END
+Perplexity: 29.2727
+
+Sentence 119:
+Text: START War ! END
+Perplexity: 2.7966
+
+Sentence 120:
+Text: START THE MOTHER : _ ( With smouldering eyes . ) _ Repent ! END
+Perplexity: 111.9662
+
+Sentence 121:
+Text: START Never in all his life had Richie Goulding . END
+Perplexity: 93.5406
+
+Sentence 122:
+Text: START HYNES : _ ( Coldly . ) _ You are a perfect stranger . END
+Perplexity: 18.0345
+
+Sentence 123:
+Text: START The way she ’ s holding up her bit of a skirt . END
+Perplexity: 110.1833
+
+Sentence 124:
+Text: START Stephen asked . END
+Perplexity: 5.0613
+
+Sentence 125:
+Text: START Cool hands . END
+Perplexity: 27.5382
+
+Sentence 126:
+Text: START How do you ? END
+Perplexity: 5.5889
+
+Sentence 127:
+Text: START A . END
+Perplexity: 8.3435
+
+Sentence 128:
+Text: START BLOOM : _ ( Rubs his hands cheerfully . ) _ Just like old times . END
+Perplexity: 111.4184
+
+Sentence 129:
+Text: START Because he more than suspected he had his father ’ s voice to bank his hopes on which it was quite on the cards he had so it would be just as well , by the way no harm , to trail the conversation in the direction of that particular red herring just to . END
+Perplexity: 126.6911
+
+Sentence 130:
+Text: START BELLA : _ ( Turns to the piano . ) _ Which of you was playing the dead march from _Saul ? _ ZOE : Me . END
+Perplexity: 65.7715
+
+Sentence 131:
+Text: START Far . END
+Perplexity: 1.6212
+
+Sentence 132:
+Text: START FLORRY : _ ( Smirking . ) _ The bird that can sing and won ’ t sing . END
+Perplexity: 52.9918
+
+Sentence 133:
+Text: START Philosophy . END
+Perplexity: 2.9251
+
+Sentence 134:
+Text: START — Better , said Tomgin Kernan . END
+Perplexity: 1647.9622
+
+Sentence 135:
+Text: START Say you never see them with three colours . END
+Perplexity: 75.8213
+
+Sentence 136:
+Text: START THE YEWS : Ssh ! END
+Perplexity: 235.3568
+
+Sentence 137:
+Text: START Women faint . END
+Perplexity: 210.3074
+
+Sentence 138:
+Text: START I sacrificed to the god of the forest . END
+Perplexity: 301.5482
+
+Sentence 139:
+Text: START Jingle jaunted down the quays . END
+Perplexity: 90.9004
+
+Sentence 140:
+Text: START No . END
+Perplexity: 2.3189
+
+Sentence 141:
+Text: START 1 . F . 1 . END
+Perplexity: 8.2001
+
+Sentence 142:
+Text: START And the other little man ? END
+Perplexity: 40.8470
+
+Sentence 143:
+Text: START P . , J . END
+Perplexity: 7.3378
+
+Sentence 144:
+Text: START — On the beeoteetom , laughed Cissy merrily . END
+Perplexity: 1480.4590
+
+Sentence 145:
+Text: START Our souls . END
+Perplexity: 11.9812
+
+Sentence 146:
+Text: START The chap that writes like Synge . END
+Perplexity: 949.9764
+
+Sentence 147:
+Text: START Trees are they ? END
+Perplexity: 65.0635
+
+Sentence 148:
+Text: START Yes , must . END
+Perplexity: 38.0613
+
+Sentence 149:
+Text: START No : she wouldn ’ t like that much . END
+Perplexity: 21.2844
+
+Sentence 150:
+Text: START The home without potted meat is incomplete . END
+Perplexity: 748.3186
+
+Sentence 151:
+Text: START Wait a moment . END
+Perplexity: 11.0688
+
+Sentence 152:
+Text: START Writ , I ween , ’ twas not my wish In lean unlovely English . END
+Perplexity: 587.2021
+
+Sentence 153:
+Text: START _ ( The face of Martin Cunningham , bearded , refeatures Shakespeare ’ s beardless face . END
+Perplexity: 145.2897
+
+Sentence 154:
+Text: START A throstle . END
+Perplexity: 25.2228
+
+Sentence 155:
+Text: START It vibrates . END
+Perplexity: 1679.9189
+
+Sentence 156:
+Text: START — Pretty countryfolk had few chattels then , John Eglinton observed , as they have still if our peasant plays are true to type . END
+Perplexity: 1137.8917
+
+Sentence 157:
+Text: START Forget , forgive . END
+Perplexity: 71.6641
+
+Sentence 158:
+Text: START Water rushed roaring through the sluices . END
+Perplexity: 680.5356
+
+Sentence 159:
+Text: START Much ? END
+Perplexity: 7.1078
+
+Sentence 160:
+Text: START _De mortuis nil nisi prius _ . END
+Perplexity: 155498.5156
+
+Sentence 161:
+Text: START He left her and walked on . END
+Perplexity: 61.7574
+
+Sentence 162:
+Text: START S . END
+Perplexity: 1.0762
+
+Sentence 163:
+Text: START Hold to the now , the here , through which all future plunges to the past . END
+Perplexity: 353.4163
+
+Sentence 164:
+Text: START He went . END
+Perplexity: 16.2747
+
+Sentence 165:
+Text: START Judge of his astonishment when he finally did breast the tape and the awful truth dawned upon him anent his better half , wrecked in his affections . END
+Perplexity: 1853.2354
+
+Sentence 166:
+Text: START — It ’ s in the lock , Stephen said , coming forward . END
+Perplexity: 20.6462
+
+Sentence 167:
+Text: START Bad opinion of me he ’ ll have . END
+Perplexity: 127.6655
+
+Sentence 168:
+Text: START Uniform . END
+Perplexity: 2.5097
+
+Sentence 169:
+Text: START My casque and sword . END
+Perplexity: 1673.4573
+
+Sentence 170:
+Text: START Deaden the gnaw of hunger that way . END
+Perplexity: 314.6653
+
+Sentence 171:
+Text: START His voice is heard mellow from afar , merciful male , melodious : ) _ Shall carry my heart to thee , Shall carry my heart to thee , And the breath of the balmy night Shall carry my heart to thee ! END
+Perplexity: 898.3725
+
+Sentence 172:
+Text: START Do ptake some ptarmigan . END
+Perplexity: 65558.1953
+
+Sentence 173:
+Text: START And by the door deaf Pat , bald Pat , tipped Pat , listened . END
+Perplexity: 253.1544
+
+Sentence 174:
+Text: START Lot of thanks I get . END
+Perplexity: 105.2379
+
+Sentence 175:
+Text: START He ’ s a nice pattern of a Romeo and Juliet . END
+Perplexity: 539.6021
+
+Sentence 176:
+Text: START Martha , chestnote , return ! END
+Perplexity: 474.7063
+
+Sentence 177:
+Text: START Was the knowledge possessed by both of each of these languages , the extinct and the revived , theoretical or practical ? END
+Perplexity: 957.7889
+
+Sentence 178:
+Text: START He is down on his luck at present owing to the mortgaging of his extensive property at Agendath Netaim in faraway Asia Minor , slides of which will now be shown . END
+Perplexity: 1051.9855
+
+Sentence 179:
+Text: START Haines stopped to take out a smooth silver case in which twinkled a green stone . END
+Perplexity: 972.1837
+
+Sentence 180:
+Text: START An indistinct daguerreotype of Rudolf Virag and his father Leopold Virag executed in the year 1852 in the portrait atelier of their ( respectively ) 1st and 2nd cousin , Stefan Virag of Szesfehervar , Hungary . END
+Perplexity: 2138.2056
+
+Sentence 181:
+Text: START All is lost now ! END
+Perplexity: 11.9030
+
+Sentence 182:
+Text: START Once you are dead you are dead . END
+Perplexity: 99.8609
+
+Sentence 183:
+Text: START Made me laugh to see . END
+Perplexity: 28.8366
+
+Sentence 184:
+Text: START He pressed ( the same who pressed indulgently her hand ) , soft pedalling , a triple of keys to see the thicknesses of felt advancing , to hear the muffled hammerfall in action . END
+Perplexity: 1509.0488
+
+Sentence 185:
+Text: START THE YEWS : Ssh ! END
+Perplexity: 235.3568
+
+Sentence 186:
+Text: START all for me is out ... END
+Perplexity: 177.9365
+
+Sentence 187:
+Text: START Goodbye , now , goodbye ! _ He capered before them down towards the fortyfoot hole , fluttering his winglike hands , leaping nimbly , Mercury ’ s hat quivering in the fresh wind that bore back to them his brief birdsweet cries . END
+Perplexity: 1061.0319
+
+Sentence 188:
+Text: START Soft soft soft hand . END
+Perplexity: 155.3724
+
+Sentence 189:
+Text: START The playwright who wrote the folio of this world and wrote it badly ( He gave us light first and the sun two days later ) , the lord of things as they are whom the most Roman of catholics call _dio boia _ , hangman god , is doubtless all in all in all of us , ostler and butcher , and would be bawd and cuckold too but that in the economy of heaven , foretold by Hamlet , there are no more marriages , glorified man , an androgynous angel , being a wife unto himself . END
+Perplexity: 977.2931
+
+Sentence 190:
+Text: START Say out big , big . END
+Perplexity: 101.5311
+
+Sentence 191:
+Text: START Anyhow upon weighing up the pros and cons , getting on for one , as it was , it was high time to be retiring for the night . END
+Perplexity: 298.9979
+
+Sentence 192:
+Text: START Must be thrilling from the air . END
+Perplexity: 65.0088
+
+Sentence 193:
+Text: START Coming home it was a gorgeous winter ’ s night on the Featherbed Mountain . END
+Perplexity: 463.2514
+
+Sentence 194:
+Text: START She shouted in his ear the tidings . END
+Perplexity: 102.0605
+
+Sentence 195:
+Text: START As she hath the virtue of the chameleon to change her hue at every new approach , to be gay with the merry and mournful with the downcast , so too is her age changeable as her mood . END
+Perplexity: 792.5010
+
+Sentence 196:
+Text: START Will you ever forget his goggle eye ? END
+Perplexity: 124.9700
+
+Sentence 197:
+Text: START AN ELECTOR : Three times three for our future chief magistrate ! END
+Perplexity: 1800.1530
+
+Sentence 198:
+Text: START She will drown me with her , eyes and hair . END
+Perplexity: 140.3136
+
+Sentence 199:
+Text: START Wetherup always said that . END
+Perplexity: 61.6331
+
+Sentence 200:
+Text: START — Two , Corny Kelleher said . END
+Perplexity: 33.1734
+
+Sentence 201:
+Text: START Down she sat . END
+Perplexity: 43.0234
+
+Sentence 202:
+Text: START His head might come up some day above ground in a landslip with his hand pointing . END
+Perplexity: 785.0974
+
+Sentence 203:
+Text: START _O merde alors ! END
+Perplexity: 21658.5430
+
+Sentence 204:
+Text: START P . , L . END
+Perplexity: 5.3152
+
+Sentence 205:
+Text: START The priest closed his book and went off , followed by the server . END
+Perplexity: 77.1543
+
+Sentence 206:
+Text: START The green light wanes to mauve . END
+Perplexity: 6841.7324
+
+Sentence 207:
+Text: START If I had only my gold piercer here ! END
+Perplexity: 532.8092
+
+Sentence 208:
+Text: START Prff ! END
+Perplexity: 8.0015
+
+Sentence 209:
+Text: START He ’ s in his sanctum with Lenehan . END
+Perplexity: 183.5558
+
+Sentence 210:
+Text: START Bronzelydia by Minagold . END
+Perplexity: 918.1261
+
+Sentence 211:
+Text: START Even more he liked an old German song of _Johannes Jeep _ about the clear sea and the voices of sirens , sweet murderers of men , which boggled Bloom a bit : Von der Sirenen Listigkeit Tun die Poeten dichten . END
+Perplexity: 16708.2617
+
+Sentence 212:
+Text: START But , should I have overstepped the limits of reserve let the sincerity of my feelings be the excuse for my boldness . END
+Perplexity: 1286.7537
+
+Sentence 213:
+Text: START Number ? END
+Perplexity: 9.1487
+
+Sentence 214:
+Text: START Mr Dedalus said : — I am come to pay you another visit . END
+Perplexity: 52.9632
+
+Sentence 215:
+Text: START BLOOM : I was precocious . END
+Perplexity: 104.7820
+
+Sentence 216:
+Text: START Destiny . END
+Perplexity: 1.9276
+
+Sentence 217:
+Text: START Gerty ! END
+Perplexity: 14.9337
+
+Sentence 218:
+Text: START BLOOM : _ ( In tattered mocassins with a rusty fowlingpiece , tiptoeing , fingertipping , his haggard bony bearded face peering through the diamond panes , cries out . ) _ I see her ! END
+Perplexity: 1085.2228
+
+Sentence 219:
+Text: START A bargain . END
+Perplexity: 80.6372
+
+Sentence 220:
+Text: START Windfall when he kicks out . END
+Perplexity: 109.1101
+
+Sentence 221:
+Text: START Round and round a moth flies , colliding , escaping . END
+Perplexity: 1129.6780
+
+Sentence 222:
+Text: START Russell . END
+Perplexity: 2.8624
+
+Sentence 223:
+Text: START Father Conmee drew off his gloves and took his rededged breviary out . END
+Perplexity: 481.1029
+
+Sentence 224:
+Text: START He stepped swiftly off , his eyes coming to blue life as they passed a broad sunbeam . END
+Perplexity: 442.8065
+
+Sentence 225:
+Text: START I felt her pulse . END
+Perplexity: 301.3158
+
+Sentence 226:
+Text: START Buck Mulligan at once put on a blithe broadly smiling face . END
+Perplexity: 948.2775
+
+Sentence 227:
+Text: START THE CROWD : Let him up ! END
+Perplexity: 107.2305
+
+Sentence 228:
+Text: START Your own name is strange enough . END
+Perplexity: 77.3928
+
+Sentence 229:
+Text: START Yummyyum , Womwom ! END
+Perplexity: 926.0086
+
+Sentence 230:
+Text: START says Joe . END
+Perplexity: 2.4293
+
+Sentence 231:
+Text: START The exhibition , which is the result of years of training by kindness and a carefully thoughtout dietary system , comprises , among other achievements , the recitation of verse . END
+Perplexity: 1875.7050
+
+Sentence 232:
+Text: START With brief suspiration he reassumed the candle , reascended the stairs , reapproached the door of the front room , hallfloor , and reentered . END
+Perplexity: 1706.3698
+
+Sentence 233:
+Text: START Father , Word and Holy Breath . END
+Perplexity: 2450.4573
+
+Sentence 234:
+Text: START Winding of his ticker . END
+Perplexity: 217.2153
+
+Sentence 235:
+Text: START Look at this , says he . END
+Perplexity: 11.1954
+
+Sentence 236:
+Text: START Am I going to aunt Sara ’ s or not ? END
+Perplexity: 170.3816
+
+Sentence 237:
+Text: START STEPHEN : _ ( Swaying . ) _ I don ’ t avoid it . END
+Perplexity: 24.1649
+
+Sentence 238:
+Text: START Hole . END
+Perplexity: 5.5374
+
+Sentence 239:
+Text: START _ ( Bloom takes J . END
+Perplexity: 40.1299
+
+Sentence 240:
+Text: START — Pass , friends , says he . END
+Perplexity: 81.1286
+
+Sentence 241:
+Text: START Body of white woman , a flute alive . END
+Perplexity: 447.1725
+
+Sentence 242:
+Text: START Two is company . END
+Perplexity: 225.2001
+
+Sentence 243:
+Text: START Ow ! END
+Perplexity: 4.3385
+
+Sentence 244:
+Text: START What ’ s up ? END
+Perplexity: 18.5899
+
+Sentence 245:
+Text: START Take off that white hat . END
+Perplexity: 74.0743
+
+Sentence 246:
+Text: START The bloody nag took fright and the old mongrel after the car like bloody hell and all the populace shouting and laughing and the old tinbox clattering along the street . END
+Perplexity: 653.5584
+
+Sentence 247:
+Text: START I met him one day in the south city markets buying a tin of Neave ’ s food six weeks before the wife was delivered . END
+Perplexity: 532.3278
+
+Sentence 248:
+Text: START Rub in August : good idea : horseshow month . END
+Perplexity: 2704.4341
+
+Sentence 249:
+Text: START All the odd things people pick up for food . END
+Perplexity: 379.7846
+
+Sentence 250:
+Text: START 24 ) . END
+Perplexity: 25.4733
+
+Sentence 251:
+Text: START He is encrusted with weeds and shells . END
+Perplexity: 1039.3156
+
+Sentence 252:
+Text: START Better where she is down there : away . END
+Perplexity: 87.6442
+
+Sentence 253:
+Text: START Head , redconecapped , buffeted , brineblinded . END
+Perplexity: 1799.8027
+
+Sentence 254:
+Text: START In Fownes ’ s street Dilly Dedalus , straining her sight upward from Chardenal ’ s first French primer , saw sunshades spanned and wheelspokes spinning in the glare . END
+Perplexity: 4674.1177
+
+Sentence 255:
+Text: START Ah , that soap : in my hip pocket . END
+Perplexity: 84.3044
+
+Sentence 256:
+Text: START He was on the _Freeman_ once . END
+Perplexity: 50.2973
+
+Sentence 257:
+Text: START By the way , did I tear up that envelope ? END
+Perplexity: 92.1308
+
+Sentence 258:
+Text: START Solemnly he came forward and mounted the round gunrest . END
+Perplexity: 183.7531
+
+Sentence 259:
+Text: START _ ( Stephen shakes his head . ) _ No kid . END
+Perplexity: 41.8116
+
+Sentence 260:
+Text: START By knocking his sconce against them , sure . END
+Perplexity: 661.2724
+
+Sentence 261:
+Text: START For a cat . END
+Perplexity: 23.3955
+
+Sentence 262:
+Text: START And it can be cured . END
+Perplexity: 60.0677
+
+Sentence 263:
+Text: START Cold water and gingerpop ! END
+Perplexity: 1436.1860
+
+Sentence 264:
+Text: START Those crawthumpers , now that ’ s a good name for them , there ’ s always something shiftylooking about them . END
+Perplexity: 206.4453
+
+Sentence 265:
+Text: START I ’ ll tell ... END
+Perplexity: 17.1667
+
+Sentence 266:
+Text: START With her weak blood and wheysour milk she had fed him and hid from sight of others his swaddling bands . END
+Perplexity: 2544.5039
+
+Sentence 267:
+Text: START He slid in a disk for himself : and watched it shoot , wobble , ogle , stop : four . END
+Perplexity: 491.0990
+
+Sentence 268:
+Text: START Good old doggy ! END
+Perplexity: 383.5941
+
+Sentence 269:
+Text: START Envel . END
+Perplexity: 4.0991
+
+Sentence 270:
+Text: START Might take a trip down there . END
+Perplexity: 140.0661
+
+Sentence 271:
+Text: START A revolution must come on the due instalments plan . END
+Perplexity: 2047.7051
+
+Sentence 272:
+Text: START Whose mother is beastly dead . END
+Perplexity: 32.5534
+
+Sentence 273:
+Text: START The lacquey lifted his handbell and shook it : — Barang ! END
+Perplexity: 120.9013
+
+Sentence 274:
+Text: START From infancy to maturity he had resembled his maternal procreatrix . END
+Perplexity: 2928.4185
+
+Sentence 275:
+Text: START Subsequently he enclosed a bloom of edelweiss culled on the heights , as he said , in my honour . END
+Perplexity: 625.4189
+
+Sentence 276:
+Text: START — The schoolmen were schoolboys first , Stephen said superpolitely . END
+Perplexity: 1339.3245
+
+Sentence 277:
+Text: START Hold me . END
+Perplexity: 10.2216
+
+Sentence 278:
+Text: START Give me more than that . END
+Perplexity: 18.6537
+
+Sentence 279:
+Text: START Shapely bathers on golden strand . END
+Perplexity: 1334.3733
+
+Sentence 280:
+Text: START A server bearing a brass bucket with something in it came out through a door . END
+Perplexity: 211.8195
+
+Sentence 281:
+Text: START Corny Kelleher said . END
+Perplexity: 3.1065
+
+Sentence 282:
+Text: START Waaaaaaalk . END
+Perplexity: 1.7624
+
+Sentence 283:
+Text: START BELLO : _ ( Sarcastically . ) _ I wouldn ’ t hurt your feelings for the world but there ’ s a man of brawn in possession there . END
+Perplexity: 68.6956
+
+Sentence 284:
+Text: START Bored Bloom tambourined gently with I am just reflecting fingers on flat pad Pat brought . END
+Perplexity: 5859.7617
+
+Sentence 285:
+Text: START — Has been ? END
+Perplexity: 477.2388
+
+Sentence 286:
+Text: START Here I am . END
+Perplexity: 15.0820
+
+Sentence 287:
+Text: START The murderer ’ s image in the eye of the murdered . END
+Perplexity: 69.5657
+
+Sentence 288:
+Text: START — Poldy ! END
+Perplexity: 38.5275
+
+Sentence 289:
+Text: START Annoyed if you don ’ t . END
+Perplexity: 10.4747
+
+Sentence 290:
+Text: START Lucky Molly got over hers lightly . END
+Perplexity: 1199.6654
+
+Sentence 291:
+Text: START Won ’ t last . END
+Perplexity: 16.2780
+
+Sentence 292:
+Text: START So Joe took up the letters . END
+Perplexity: 45.0841
+
+Sentence 293:
+Text: START _ ( He laughs loudly . ) _ Burying his grandmother . END
+Perplexity: 47.1493
+
+Sentence 294:
+Text: START Thou art , I vow , the remarkablest progenitor barring none in this chaffering allincluding most farraginous chronicle . END
+Perplexity: 17798.2207
+
+Sentence 295:
+Text: START BLOOM : _ ( Shrinks . ) _ Silk , mistress said ! END
+Perplexity: 60.1531
+
+Sentence 296:
+Text: START No more desire . END
+Perplexity: 134.1881
+
+Sentence 297:
+Text: START High wall : beyond strings twanged . END
+Perplexity: 3662.4019
+
+Sentence 298:
+Text: START Mr Cowe Conacre : Has the right honourable gentleman ’ s famous Mitchelstown telegram inspired the policy of gentlemen on the Treasury bench ? END
+Perplexity: 1018.8873
+
+Sentence 299:
+Text: START How the head centre got away , authentic version . END
+Perplexity: 3923.2415
+
+Sentence 300:
+Text: START Dark men they call them . END
+Perplexity: 69.7022
+
+Sentence 301:
+Text: START _The Irish Independent , _ if you please , founded by Parnell to be the workingman ’ s friend . END
+Perplexity: 383.0985
+
+Sentence 302:
+Text: START Give me in charge . END
+Perplexity: 46.5232
+
+Sentence 303:
+Text: START Denis will be like that one of these days . END
+Perplexity: 27.7671
+
+Sentence 304:
+Text: START Are you off ? END
+Perplexity: 10.7012
+
+Sentence 305:
+Text: START Longworth will give it a good puff in the _Express . _ O , will he ? END
+Perplexity: 95.9497
+
+Sentence 306:
+Text: START Life with hard labour . END
+Perplexity: 259.0940
+
+Sentence 307:
+Text: START His midriff yearned then upward , sank within him , yearned more longly , longingly . END
+Perplexity: 10615.0908
+
+Sentence 308:
+Text: START Look at what I ’ m standing drinks to ! END
+Perplexity: 115.2344
+
+Sentence 309:
+Text: START Get outside of a baron of beef . END
+Perplexity: 563.0534
+
+Sentence 310:
+Text: START Inform the police . END
+Perplexity: 66.1367
+
+Sentence 311:
+Text: START He went on and down , mopping , chanting with waving graceful arms : — The most beautiful book that has come out of our country in my time . END
+Perplexity: 325.6643
+
+Sentence 312:
+Text: START I feel we are . END
+Perplexity: 51.5727
+
+Sentence 313:
+Text: START Twang . END
+Perplexity: 7.2152
+
+Sentence 314:
+Text: START Tom Kernan strutted in . END
+Perplexity: 892.0472
+
+Sentence 315:
+Text: START Was there one point on which their views were equal and negative ? END
+Perplexity: 655.6494
+
+Sentence 316:
+Text: START — It ’ s them has the fine times , sadly then she said . END
+Perplexity: 105.3939
+
+Sentence 317:
+Text: START Mr B interrogated . END
+Perplexity: 342.9967
+
+Sentence 318:
+Text: START Perhaps so as not to hurt . END
+Perplexity: 25.7644
+
+Sentence 319:
+Text: START It ill becomes him to preach that gospel . END
+Perplexity: 1195.4192
+
+Sentence 320:
+Text: START It ’ s as limp as a boy of six ’ s doing his pooly behind a cart . END
+Perplexity: 114.3274
+
+Sentence 321:
+Text: START A garland of grey hair on his comminated head see him me clambering down to the footpace ( _descende ! _ ) , clutching a monstrance , basiliskeyed . END
+Perplexity: 2707.2405
+
+Sentence 322:
+Text: START — Indeed it is , Mr Bloom said . END
+Perplexity: 15.3055
+
+Sentence 323:
+Text: START STEPHEN : No ! END
+Perplexity: 5.8352
+
+Sentence 324:
+Text: START CORNY KELLEHER : _ ( Laughs . ) _ Sure they wanted me to join in with the mots . END
+Perplexity: 47.4119
+
+Sentence 325:
+Text: START Very good for the brain . END
+Perplexity: 39.0707
+
+Sentence 326:
+Text: START She remembered : on the 27th anniversary of his birth she presented to him a breakfast moustachecup of imitation Crown Derby porcelain ware . END
+Perplexity: 710.3489
+
+Sentence 327:
+Text: START Cheap too . END
+Perplexity: 12.6135
+
+Sentence 328:
+Text: START Didn ’ t he ... ? END
+Perplexity: 11.9134
+
+Sentence 329:
+Text: START Davy Byrne , sated after his yawn , said with tearwashed eyes : — And is that a fact ? END
+Perplexity: 401.9633
+
+Sentence 330:
+Text: START _ ( Kindly . ) _ Nay , dost not weepest ! END
+Perplexity: 1609.2239
+
+Sentence 331:
+Text: START For instance who ? END
+Perplexity: 52.0180
+
+Sentence 332:
+Text: START Undercutting . END
+Perplexity: 1.9275
+
+Sentence 333:
+Text: START Also the two sluts in the Coombe would listen . END
+Perplexity: 92.6160
+
+Sentence 334:
+Text: START Bloom , having the advantage of ten seconds at the initiation and taking , from the concave surface of a spoon along the handle of which a steady flow of heat was conducted , three sips to his opponent ’ s one , six to two , nine to three . END
+Perplexity: 603.4785
+
+Sentence 335:
+Text: START A hobgoblin in the image of Punch Costello , hipshot , crookbacked , hydrocephalic , prognathic with receding forehead and Ally Sloper nose , tumbles in somersaults through the gathering darkness . ) _ ALL : What ? END
+Perplexity: 3627.7720
+
+Sentence 336:
+Text: START Bowls them over . END
+Perplexity: 37.8101
+
+Sentence 337:
+Text: START He died on Monday , poor fellow _ . END
+Perplexity: 46.1458
+
+Sentence 338:
+Text: START — Hello , Bloom . END
+Perplexity: 10.1693
+
+Sentence 339:
+Text: START The nails , yes . END
+Perplexity: 62.5562
+
+Sentence 340:
+Text: START Gob , we won ’ t be let even do that much itself . END
+Perplexity: 84.8344
+
+Sentence 341:
+Text: START Why ? END
+Perplexity: 2.3680
+
+Sentence 342:
+Text: START A snack for supper . END
+Perplexity: 458.1263
+
+Sentence 343:
+Text: START Dictates of common sense . END
+Perplexity: 29.0677
+
+Sentence 344:
+Text: START After him , boy ! END
+Perplexity: 52.4485
+
+Sentence 345:
+Text: START What about what ? END
+Perplexity: 24.6307
+
+Sentence 346:
+Text: START Times of the troubles . END
+Perplexity: 44.2167
+
+Sentence 347:
+Text: START She didn ’ t like it because I sprained my ankle first day she wore choir picnic at the Sugarloaf . END
+Perplexity: 299.9591
+
+Sentence 348:
+Text: START A shaven space of lawn one soft May evening , the wellremembered grove of lilacs at Roundtown , purple and white , fragrant slender spectators of the game but with much real interest in the pellets as they run slowly forward over the sward or collide and stop , one by its fellow , with a brief alert shock . END
+Perplexity: 1884.7675
+
+Sentence 349:
+Text: START Laughter in court . END
+Perplexity: 24.9253
+
+Sentence 350:
+Text: START Show us over those apricots , meaning peaches . END
+Perplexity: 1031.8596
+
+Sentence 351:
+Text: START Veils fall . END
+Perplexity: 90.2782
+
+Sentence 352:
+Text: START _ ( Zoe and Stephen turn boldly with looser swing . END
+Perplexity: 637.9608
+
+Sentence 353:
+Text: START His oyster eyes staring at the postcard . END
+Perplexity: 178.1459
+
+Sentence 354:
+Text: START O ’ Molloy said , of Roman justice as contrasted with the earlier Mosaic code , the _lex talionis _ . END
+Perplexity: 648.3091
+
+Sentence 355:
+Text: START Aha . END
+Perplexity: 2.8959
+
+Sentence 356:
+Text: START Kalipedia , he prophesied , would soon be generally adopted and all the graces of life , genuinely good music , agreeable literature , light philosophy , instructive pictures , plastercast reproductions of the classical statues such as Venus and Apollo , artistic coloured photographs of prize babies , all these little attentions would enable ladies who were in a particular condition to pass the intervening months in a most enjoyable manner . END
+Perplexity: 2653.2703
+
+Sentence 357:
+Text: START Sss . END
+Perplexity: 3.0930
+
+Sentence 358:
+Text: START he queried of the sailor , now returning after his private potation and the rest of his exertions . END
+Perplexity: 565.5006
+
+Sentence 359:
+Text: START His hand fell to his side again . END
+Perplexity: 57.1214
+
+Sentence 360:
+Text: START His right hand once more more slowly went over his brow and hair . END
+Perplexity: 144.5724
+
+Sentence 361:
+Text: START At this very moment , says he , putting up his fist , sold by auction in Morocco like slaves or cattle . END
+Perplexity: 389.0699
+
+Sentence 362:
+Text: START Now . END
+Perplexity: 3.6805
+
+Sentence 363:
+Text: START J . , and every male that ’ s born they think it may be their Messiah . END
+Perplexity: 146.9950
+
+Sentence 364:
+Text: START She could without difficulty , he said , have posed for the ensemble , not to dwell on certain opulent curves of the . END
+Perplexity: 536.9382
+
+Sentence 365:
+Text: START I wish you could have seen my queen today , Vincent said . END
+Perplexity: 126.4980
+
+Sentence 366:
+Text: START — What is it ? END
+Perplexity: 5.0229
+
+Sentence 367:
+Text: START A hesitating soul taking arms against a sea of troubles , torn by conflicting doubts , as one sees in real life . END
+Perplexity: 1380.9895
+
+Sentence 368:
+Text: START To make the blind see I throw dust in their eyes . END
+Perplexity: 336.5904
+
+Sentence 369:
+Text: START _Freeman . _ Where did I ? END
+Perplexity: 17.8471
+
+Sentence 370:
+Text: START Madden had lost five drachmas on Sceptre for a whim of the rider ’ s name : Lenehan as much more . END
+Perplexity: 735.5923
+
+Sentence 371:
+Text: START IMPROMPTU In ferial tone he addressed J . END
+Perplexity: 8129.7964
+
+Sentence 372:
+Text: START O , leave them there to simmer . END
+Perplexity: 583.6179
+
+Sentence 373:
+Text: START I ’ m sorry to hear that . END
+Perplexity: 10.4100
+
+Sentence 374:
+Text: START Hair on end . END
+Perplexity: 52.2692
+
+Sentence 375:
+Text: START Avowal . END
+Perplexity: 1.5991
+
+Sentence 376:
+Text: START Counted them . END
+Perplexity: 18.4698
+
+Sentence 377:
+Text: START Why we left the church of Rome . END
+Perplexity: 14.5353
+
+Sentence 378:
+Text: START Tupper loves officer Taylor . END
+Perplexity: 1313.3813
+
+Sentence 379:
+Text: START John Howard Parnell translated a white bishop quietly and his grey claw went up again to his forehead whereat it rested . END
+Perplexity: 726.4742
+
+Sentence 380:
+Text: START D . END
+Perplexity: 1.6137
+
+Sentence 381:
+Text: START No , that ’ s the other . END
+Perplexity: 9.5565
+
+Sentence 382:
+Text: START They followed round the corner towards James Kavanagh ’ s winerooms . END
+Perplexity: 127.5716
+
+Sentence 383:
+Text: START Potted herrings gone stale or . END
+Perplexity: 2563.5242
+
+Sentence 384:
+Text: START One moment he had been there , fascinated by a loveliness that made him gaze , and the next moment it was the quiet gravefaced gentleman , selfcontrol expressed in every line of his distinguishedlooking figure . END
+Perplexity: 1001.4765
+
+Sentence 385:
+Text: START Two bar and a wing . END
+Perplexity: 68.2354
+
+Sentence 386:
+Text: START With a wand he beats time slowly . END
+Perplexity: 280.3394
+
+Sentence 387:
+Text: START Australians they must be this time of year . END
+Perplexity: 77.0145
+
+Sentence 388:
+Text: START Read your own obituary notice they say you live longer . END
+Perplexity: 587.5833
+
+Sentence 389:
+Text: START Gerty wished to goodness they would take their squalling baby home out of that and not get on her nerves , no hour to be out , and the little brats of twins . END
+Perplexity: 287.5327
+
+Sentence 390:
+Text: START Off he sails with a scapular or a medal on him for luck . END
+Perplexity: 294.2009
+
+Sentence 391:
+Text: START And the last we saw was the bloody car rounding the corner and old sheepsface on it gesticulating and the bloody mongrel after it with his lugs back for all he was bloody well worth to tear him limb from limb . END
+Perplexity: 630.2869
+
+Sentence 392:
+Text: START Know who that is . END
+Perplexity: 59.3544
+
+Sentence 393:
+Text: START What eventuality would render him independent of such wealth ? END
+Perplexity: 1502.6776
+
+Sentence 394:
+Text: START A band of satchelled schoolboys crossed from Richmond street . END
+Perplexity: 2638.9280
+
+Sentence 395:
+Text: START EXIT BLOOM — I ’ m just running round to Bachelor ’ s walk , Mr Bloom said , about this ad of Keyes ’ s . END
+Perplexity: 84.8437
+
+Sentence 396:
+Text: START — Where is he ? END
+Perplexity: 9.1479
+
+Sentence 397:
+Text: START I ’ ll just wait and take him along in a few ... END
+Perplexity: 125.9437
+
+Sentence 398:
+Text: START Won ’ t look . END
+Perplexity: 6.7155
+
+Sentence 399:
+Text: START Stephen , greeting , then all amort , followed a lubber jester , a wellkempt head , newbarbered , out of the vaulted cell into a shattering daylight of no thought . END
+Perplexity: 789.0659
+
+Sentence 400:
+Text: START — I forget the place , sir . END
+Perplexity: 24.6375
+
+Sentence 401:
+Text: START An Irishman must think like that , I daresay . END
+Perplexity: 81.3988
+
+Sentence 402:
+Text: START They lowed about her whom they knew , dewsilky cattle . END
+Perplexity: 2471.8359
+
+Sentence 403:
+Text: START Because the poor animals suffer and experts say and the best known remedy that doesn ’ t cause pain to the animal and on the sore spot administer gently . END
+Perplexity: 765.4642
+
+Sentence 404:
+Text: START Brains on their sleeve like the statue in Glasnevin . END
+Perplexity: 219.4062
+
+Sentence 405:
+Text: START and everyone cried O ! END
+Perplexity: 839.7632
+
+Sentence 406:
+Text: START Being a levelheaded individual who could give points to not a few in point of shrewd observation he also remarked on his very dilapidated hat and slouchy wearing apparel generally testifying to a chronic impecuniosity . END
+Perplexity: 5472.2529
+
+Sentence 407:
+Text: START I don ’ t want to hear any more of the stuff . END
+Perplexity: 24.2330
+
+Sentence 408:
+Text: START Were there obverse meditations of involution increasingly less vast ? END
+Perplexity: 13274.0781
+
+Sentence 409:
+Text: START — A rump and dozen , says the citizen , was what that old ruffian sir John Beresford called it but the modern God ’ s Englishman calls it caning on the breech . END
+Perplexity: 551.5919
+
+Sentence 410:
+Text: START Resp . END
+Perplexity: 4.7190
+
+Sentence 411:
+Text: START Chewing his blade of hay he laid the coffinlid by and came to the doorway . END
+Perplexity: 148.6845
+
+Sentence 412:
+Text: START The young person was treated by defendant as if she were his very own daughter . END
+Perplexity: 442.6311
+
+Sentence 413:
+Text: START But O , oblige me by taking away that knife . END
+Perplexity: 578.8992
+
+Sentence 414:
+Text: START THE NAVVY : _ ( Shouts . ) _ The galling chain . END
+Perplexity: 34.5655
+
+Sentence 415:
+Text: START You and me , don ’ t you know : in the same boat . END
+Perplexity: 27.3375
+
+Sentence 416:
+Text: START Baraabum . END
+Perplexity: 1.8050
+
+Sentence 417:
+Text: START Mercy of God the sun was in his eyes or he ’ d have left him for dead . END
+Perplexity: 65.8437
+
+Sentence 418:
+Text: START Disguises , clutched at , gone , not here . END
+Perplexity: 410.8200
+
+Sentence 419:
+Text: START But his heart is buried in Rome . END
+Perplexity: 132.2402
+
+Sentence 420:
+Text: START — Ay , the Lord have mercy on him . END
+Perplexity: 19.7234
+
+Sentence 421:
+Text: START The last night pa was boosed he was standing on the landing there bawling out for his boots to go out to Tunney ’ s for to boose more and he looked butty and short in his shirt . END
+Perplexity: 474.2201
+
+Sentence 422:
+Text: START Why did I smell it only now ? END
+Perplexity: 80.8472
+
+Sentence 423:
+Text: START What lay under exposure on the lower , middle and upper shelves of the kitchen dresser , opened by Bloom ? END
+Perplexity: 611.9731
+
+Sentence 424:
+Text: START — Milk for the pussens , he said . END
+Perplexity: 137.9219
+
+Sentence 425:
+Text: START Stout lady does be with you in the brown costume . END
+Perplexity: 107.7499
+
+Sentence 426:
+Text: START — Yes , Mr Bloom said . END
+Perplexity: 3.5129
+
+Sentence 427:
+Text: START I am trying to work up influence with the department . END
+Perplexity: 164.0916
+
+Sentence 428:
+Text: START He looked at the cattle , blurred in silver heat . END
+Perplexity: 198.9264
+
+Sentence 429:
+Text: START Paddy Leonard and Bantam Lyons came in . END
+Perplexity: 38.6545
+
+Sentence 430:
+Text: START But in the straight on the run home when all were in close order the dark horse Throwaway drew level , reached , outstripped her . END
+Perplexity: 818.4039
+
+Sentence 431:
+Text: START Going for five shillings . END
+Perplexity: 30.7760
+
+Sentence 432:
+Text: START — You what ? END
+Perplexity: 21.7137
+
+Sentence 433:
+Text: START A VOICE : O rocks . END
+Perplexity: 26.1133
+
+Sentence 434:
+Text: START What , eleven ? END
+Perplexity: 163.0847
+
+Sentence 435:
+Text: START Then comes good uncle Leo . END
+Perplexity: 1223.1219
+
+Sentence 436:
+Text: START _ ( She drops two pennies in the slot . END
+Perplexity: 130.9388
+
+Sentence 437:
+Text: START Virgins go mad in the end I suppose . END
+Perplexity: 83.4136
+
+Sentence 438:
+Text: START They go , they come . END
+Perplexity: 54.9594
+
+Sentence 439:
+Text: START Let me . END
+Perplexity: 4.1124
+
+Sentence 440:
+Text: START the professor cried . END
+Perplexity: 10.1981
+
+Sentence 441:
+Text: START He asked about Glaucon , Alcibiades , Pisistratus . END
+Perplexity: 10992.4619
+
+Sentence 442:
+Text: START Ordinary meat for them . END
+Perplexity: 60.0672
+
+Sentence 443:
+Text: START If you received the work on a physical medium , you must return the medium with your written explanation . END
+Perplexity: 289.7324
+
+Sentence 444:
+Text: START Could do it myself . END
+Perplexity: 24.4322
+
+Sentence 445:
+Text: START Uff ! END
+Perplexity: 9.0109
+
+Sentence 446:
+Text: START We ’ re nae tha fou . END
+Perplexity: 5.8665
+
+Sentence 447:
+Text: START But as luck would have it the jarvey got the nag ’ s head round the other way and off with him . END
+Perplexity: 96.3181
+
+Sentence 448:
+Text: START Listen . END
+Perplexity: 1.8788
+
+Sentence 449:
+Text: START Excellent people , no doubt , but distressingly shortsighted in some matters . END
+Perplexity: 1611.2670
+
+Sentence 450:
+Text: START — There was lice in that bunk in Bridgwater , he remarked , sure as nuts . END
+Perplexity: 638.5707
+
+Sentence 451:
+Text: START If you are outside the United States , check the laws of your country in addition to the terms of this agreement before downloading , copying , displaying , performing , distributing or creating derivative works based on this work or any other Project Gutenberg-tm work . END
+Perplexity: 92.7902
+
+Sentence 452:
+Text: START But Dignam ’ s put the boots on it . END
+Perplexity: 82.6647
+
+Sentence 453:
+Text: START What was it you ... ? END
+Perplexity: 40.3621
+
+Sentence 454:
+Text: START I was happier then . END
+Perplexity: 70.3673
+
+Sentence 455:
+Text: START Aware of their greed and cunning he shook the powdery crumb from his hands . END
+Perplexity: 1527.3169
+
+Sentence 456:
+Text: START Honour where honour is due . END
+Perplexity: 180.3141
+
+Sentence 457:
+Text: START That lies in space which I in time must come to , ineluctably . END
+Perplexity: 367.0983
+
+Sentence 458:
+Text: START Must be curious to hear after their own strong basses . END
+Perplexity: 897.9327
+
+Sentence 459:
+Text: START Gerty just took off her hat for a moment to settle her hair and a prettier , a daintier head of nutbrown tresses was never seen on a girl ’ s shoulders — a radiant little vision , in sooth , almost maddening in its sweetness . END
+Perplexity: 482.6949
+
+Sentence 460:
+Text: START Lil chile velly solly . END
+Perplexity: 105283.4141
+
+Sentence 461:
+Text: START What do you think of that , citizen ? END
+Perplexity: 22.1693
+
+Sentence 462:
+Text: START Because the theme of the false or the usurping or the adulterous brother or all three in one is to Shakespeare , what the poor are not , always with him . END
+Perplexity: 367.1219
+
+Sentence 463:
+Text: START I scolded that tramdriver on Harold ’ s cross bridge for illusing the poor horse with his harness scab . END
+Perplexity: 3260.4939
+
+Sentence 464:
+Text: START Longing to get the fright of their lives . END
+Perplexity: 69.1342
+
+Sentence 465:
+Text: START We was chased by pirates one voyage . END
+Perplexity: 4811.2402
+
+Sentence 466:
+Text: START says Joe . END
+Perplexity: 2.4293
+
+Sentence 467:
+Text: START Get it out in bits . END
+Perplexity: 53.2038
+
+Sentence 468:
+Text: START A Greek he was . END
+Perplexity: 90.5969
+
+Sentence 469:
+Text: START Fancy being his wife . END
+Perplexity: 22.5874
+
+Sentence 470:
+Text: START M ’ Coy will do . END
+Perplexity: 19.3028
+
+Sentence 471:
+Text: START He walked along the upwardcurving path . END
+Perplexity: 187.2628
+
+Sentence 472:
+Text: START At four she . END
+Perplexity: 47.6157
+
+Sentence 473:
+Text: START ZOE : _ ( Fanning herself with the grate fan . ) _ I ’ m melting ! END
+Perplexity: 72.4778
+
+Sentence 474:
+Text: START You know how . END
+Perplexity: 10.2923
+
+Sentence 475:
+Text: START — _Anch ’ io ho avuto di queste idee _ , Almidano Artifoni said , _quand ’ ero giovine come Lei . END
+Perplexity: 81834.9688
+
+Sentence 476:
+Text: START Opposite Pigott ’ s music warerooms Mr Denis J Maginni , professor of dancing & c , gaily apparelled , gravely walked , outpassed by a viceroy and unobserved . END
+Perplexity: 1594.9559
+
+Sentence 477:
+Text: START For only her he waited . END
+Perplexity: 143.5432
+
+Sentence 478:
+Text: START Curlycues of chords . END
+Perplexity: 132.4001
+
+Sentence 479:
+Text: START And skeweyed Walter sirring his father , no less ! END
+Perplexity: 2646.5759
+
+Sentence 480:
+Text: START John Wyse Nolan , lagging behind , reading the list , came after them quickly down Cork hill . END
+Perplexity: 281.9511
+
+Sentence 481:
+Text: START Low sank the music , air and words . END
+Perplexity: 253.9730
+
+Sentence 482:
+Text: START She ’ s singing , yes . END
+Perplexity: 22.9532
+
+Sentence 483:
+Text: START Gravediggers bury Hamlet _père_ and Hamlet _fils . _ A king and a prince at last in death , with incidental music . END
+Perplexity: 1814.1644
+
+Sentence 484:
+Text: START And the two shawls killed with the laughing , picking his pockets , the bloody fool and he spilling the porter all over the bed and the two shawls screeching laughing at one another . END
+Perplexity: 301.7043
+
+Sentence 485:
+Text: START VOICES : _ ( Subdued . ) _ For the Caliph . END
+Perplexity: 75.7815
+
+Sentence 486:
+Text: START Tom Rochford , seeing the eyes of lady Dudley fixed on him , took his thumbs quickly out of the pockets of his claret waistcoat and doffed his cap to her . END
+Perplexity: 138.6203
+
+Sentence 487:
+Text: START — Ringabella and Crosshaven , a voice replied groping for foothold . END
+Perplexity: 983.1375
+
+Sentence 488:
+Text: START Lady Dudley was walking home through the park to see all the trees that were blown down by that cyclone last year and thought she ’ d buy a view of Dublin . END
+Perplexity: 363.2894
+
+Sentence 489:
+Text: START Don ’ t be all night before the polis in plain clothes sees us . END
+Perplexity: 258.9269
+
+Sentence 490:
+Text: START Chrysostomos . END
+Perplexity: 5.4244
+
+Sentence 491:
+Text: START Love that dare not speak its name . END
+Perplexity: 51.6994
+
+Sentence 492:
+Text: START Stimulate the caloric . END
+Perplexity: 172.3754
+
+Sentence 493:
+Text: START In an archway a standing woman , bent forward , her feet apart , pisses cowily . END
+Perplexity: 2136.8325
+
+Sentence 494:
+Text: START I believe you . END
+Perplexity: 19.0775
+
+Sentence 495:
+Text: START Unfortunately threw away the programme . END
+Perplexity: 215.8136
+
+Sentence 496:
+Text: START Let them sleep in their maggoty beds . END
+Perplexity: 379.1665
+
+Sentence 497:
+Text: START Lycopodium . END
+Perplexity: 4.1214
+
+Sentence 498:
+Text: START ZOE : Do as you ’ re bid . END
+Perplexity: 51.1185
+
+Sentence 499:
+Text: START Nothing like a dressy appearance . END
+Perplexity: 393.7980
+
+Sentence 500:
+Text: START A charming _soubrette , _ great Marie Kendall , with dauby cheeks and lifted skirt smiled daubily from her poster upon William Humble , earl of Dudley , and upon lieutenantcolonel H . END
+Perplexity: 1171.3813
+
+Sentence 501:
+Text: START Martin Cunningham nudged Mr Power . END
+Perplexity: 669.2942
+
+Sentence 502:
+Text: START After ? END
+Perplexity: 19.2224
+
+Sentence 503:
+Text: START Cleverever outofitnow . END
+Perplexity: 1606.0502
+
+Sentence 504:
+Text: START Florence MacCabe takes a crubeen and a bottle of double X for supper every Saturday . END
+Perplexity: 315.1565
+
+Sentence 505:
+Text: START You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg-tm works . END
+Perplexity: 387.5942
+
+Sentence 506:
+Text: START Good evening . END
+Perplexity: 36.1272
+
+Sentence 507:
+Text: START Were those two buttons of my waistcoat open all the time ? END
+Perplexity: 124.5864
+
+Sentence 508:
+Text: START That , sir , was once a prosperous cit . END
+Perplexity: 277.4859
+
+Sentence 509:
+Text: START Feel my royal weight . END
+Perplexity: 86.7492
+
+Sentence 510:
+Text: START Opening her handbag , chipped leather . END
+Perplexity: 608.2036
+
+Sentence 511:
+Text: START Lids of Juno ’ s eyes , violets . END
+Perplexity: 146.0205
+
+Sentence 512:
+Text: START Regular square feed for them . END
+Perplexity: 552.0942
+
+Sentence 513:
+Text: START No , not alone . END
+Perplexity: 37.9893
+
+Sentence 514:
+Text: START She drew down pensive ( why did he go so quick when I ? ) about her bronze , over the bar where bald stood by sister gold , inexquisite contrast , contrast inexquisite nonexquisite , slow cool dim seagreen sliding depth of shadow , _eau de Nil . _ — Poor old Goodwin was the pianist that night , Father Cowley reminded them . END
+Perplexity: 1522.2935
+
+Sentence 515:
+Text: START Blue dusk , nightfall , deep blue night . END
+Perplexity: 975.1779
+
+Sentence 516:
+Text: START Her growing pains at night , calling , wakening me . END
+Perplexity: 593.0579
+
+Sentence 517:
+Text: START Call : no answer . END
+Perplexity: 43.4140
+
+Sentence 518:
+Text: START BLOOM : Ten and six . END
+Perplexity: 11.9825
+
+Sentence 519:
+Text: START See paragraph 1 . E below . END
+Perplexity: 53.0627
+
+Sentence 520:
+Text: START And says Bob Doran , with the hat on the back of his poll , lowest blackguard in Dublin when he ’ s under the influence : — Who said Christ is good ? END
+Perplexity: 106.3115
+
+Sentence 521:
+Text: START Mr Bloom , quickbreathing , slowlier walking passed Adam court . END
+Perplexity: 2096.9529
+
+Sentence 522:
+Text: START His thinsocked ankles were tickled by the stubble of Clongowes field . END
+Perplexity: 851.0131
+
+Sentence 523:
+Text: START I did all a white man could . END
+Perplexity: 106.2942
+
+Sentence 524:
+Text: START His arm : Cranly ’ s arm . END
+Perplexity: 49.8395
+
+Sentence 525:
+Text: START LYNCH : _ ( Calls from the hearth . ) _ Dedalus ! END
+Perplexity: 18.6980
+
+Sentence 526:
+Text: START _ ( Halcyon days , high school boys in blue and white football jerseys and shorts , Master Donald Turnbull , Master Abraham Chatterton , Master Owen Goldberg , Master Jack Meredith , Master Percy Apjohn , stand in a clearing of the trees and shout to Master Leopold Bloom . ) _ THE HALCYON DAYS : Mackerel ! END
+Perplexity: 1266.6963
+
+Sentence 527:
+Text: START Monsters ! END
+Perplexity: 17.9636
+
+Sentence 528:
+Text: START Delirium all you hid all your life . END
+Perplexity: 151.3123
+
+Sentence 529:
+Text: START Subleader for his death written this long time perhaps . END
+Perplexity: 339.3180
+
+Sentence 530:
+Text: START — Not there , my child , says he . END
+Perplexity: 36.9695
+
+Sentence 531:
+Text: START THE HONOURABLE MRS MERVYN TALBOYS : _ ( Unbuttoning her gauntlet violently . ) _ I ’ ll do no such thing . END
+Perplexity: 49.2848
+
+Sentence 532:
+Text: START Only big words for ordinary things on account of the sound . END
+Perplexity: 135.3519
+
+Sentence 533:
+Text: START Still , he ’ s the best of that lot . END
+Perplexity: 17.4595
+
+Sentence 534:
+Text: START The clock on the mantelpiece in the priest ’ s house cooed where Canon O ’ Hanlon and Father Conroy and the reverend John Hughes S . END
+Perplexity: 61.4588
+
+Sentence 535:
+Text: START Government offices are temporarily transferred to railway sheds . END
+Perplexity: 4886.1626
+
+Sentence 536:
+Text: START Decent fellow Joe when he has it but sure like that he never has it . END
+Perplexity: 182.8808
+
+Sentence 537:
+Text: START The one about _Hamlet . _ He says : _il se promène , lisant au livre de lui-même _ , don ’ t you know , _reading the book of himself _ . END
+Perplexity: 1245.3418
+
+Sentence 538:
+Text: START 11 . END
+Perplexity: 1.9444
+
+Sentence 539:
+Text: START On nags hogs bellhorses Gadarene swine Corny in coffin steel shark stone onehandled Nelson two trickies Frauenzimmer plumstained from pram falling bawling . END
+Perplexity: 360700.7812
+
+Sentence 540:
+Text: START _ ( His Honour , sir Frederick Falkiner , recorder of Dublin , in judicial garb of grey stone rises from the bench , stonebearded . END
+Perplexity: 371.9470
+
+Sentence 541:
+Text: START — Still there ? END
+Perplexity: 59.7660
+
+Sentence 542:
+Text: START Both preferred a continental to an insular manner of life , a cisatlantic to a transatlantic place of residence . END
+Perplexity: 883.1187
+
+Sentence 543:
+Text: START — I won ’ t mention any names , says Alf . END
+Perplexity: 31.7510
+
+Sentence 544:
+Text: START South , pout , out , shout , drouth . END
+Perplexity: 570.4642
+
+Sentence 545:
+Text: START Give us the paw . END
+Perplexity: 4.5434
+
+Sentence 546:
+Text: START I see . END
+Perplexity: 8.4148
+
+Sentence 547:
+Text: START BELLA : _ ( Contemptuously . ) _ You ’ re not game , in fact . END
+Perplexity: 13.8931
+
+Sentence 548:
+Text: START Pyrrhus , misled by an oracle , made a last attempt to retrieve the fortunes of Greece . END
+Perplexity: 1197.6146
+
+Sentence 549:
+Text: START I suppose I did say it . END
+Perplexity: 31.6841
+
+Sentence 550:
+Text: START By rose , by satiny bosom , by the fondling hand , by slops , by empties , by popped corks , greeting in going , past eyes and maidenhair , bronze and faint gold in deepseashadow , went Bloom , soft Bloom , I feel so lonely Bloom . END
+Perplexity: 583.2384
+
+Sentence 551:
+Text: START Even admire themselves . END
+Perplexity: 332.7804
+
+Sentence 552:
+Text: START And if he was alive all the time ? END
+Perplexity: 21.9345
+
+Sentence 553:
+Text: START O ’ Molloy he came forth slowly into Mary ’ s abbey where draymen were loading floats with sacks of carob and palmnut meal , O ’ Connor , Wexford . END
+Perplexity: 1355.0061
+
+Sentence 554:
+Text: START Five guineas about . END
+Perplexity: 71.2077
+
+Sentence 555:
+Text: START Glorious and immaculate virgin . END
+Perplexity: 1011.4241
+
+Sentence 556:
+Text: START Poor thing ! END
+Perplexity: 6.9126
+
+Sentence 557:
+Text: START She swallowed a draught of tea from her cup held by nothandle and , having wiped her fingertips smartly on the blanket , began to search the text with the hairpin till she reached the word . END
+Perplexity: 417.9334
+
+Sentence 558:
+Text: START Henry . END
+Perplexity: 8.6520
+
+Sentence 559:
+Text: START Before and after . END
+Perplexity: 38.7534
+
+Sentence 560:
+Text: START As good as any other abbot ’ s charms , as mumbling Joachim ’ s . END
+Perplexity: 829.2221
+
+Sentence 561:
+Text: START Get out before the end . END
+Perplexity: 39.6938
+
+Sentence 562:
+Text: START It ’ s like one of our skipper ’ s bricks disguised . END
+Perplexity: 223.9484
+
+Sentence 563:
+Text: START By Stephen : _suil , suil , suil arun , suil go siocair agus suil go cuin _ ( walk , walk , walk your way , walk in safety , walk with care ) . END
+Perplexity: 11641.1426
+
+Sentence 564:
+Text: START _Habeas corpus _ . END
+Perplexity: 243.3922
+
+Sentence 565:
+Text: START Better let him forget . END
+Perplexity: 24.8167
+
+Sentence 566:
+Text: START Ah , what M ’ Guckin ! END
+Perplexity: 254.9758
+
+Sentence 567:
+Text: START he questioned of the slim form and tired though unwrinkled face . END
+Perplexity: 7247.8501
+
+Sentence 568:
+Text: START — You can tell Barabbas from me , Ben Dollard said , that he can put that writ where Jacko put the nuts . END
+Perplexity: 276.1644
+
+Sentence 569:
+Text: START Hello , Jones , where are you going ? END
+Perplexity: 59.5948
+
+Sentence 570:
+Text: START Ahbeesee defeegee kelomen opeecue rustyouvee doubleyou . END
+Perplexity: 10442674.0000
+
+Sentence 571:
+Text: START The eastern seas . END
+Perplexity: 108.7333
+
+Sentence 572:
+Text: START Te Virid . END
+Perplexity: 3220.0718
+
+Sentence 573:
+Text: START That means the transmigration of souls . END
+Perplexity: 116.0730
+
+Sentence 574:
+Text: START IM : a press cutting from an English weekly periodical _Modern Society _ , subject corporal chastisement in girls ’ schools : a pink ribbon which had festooned an Easter egg in the year 1899 : two partly uncoiled rubber preservatives with reserve pockets , purchased by post from Box 32 , P . END
+Perplexity: 2530.0667
+
+Sentence 575:
+Text: START On the road to Malahide . END
+Perplexity: 29.1261
+
+Sentence 576:
+Text: START — Good day , Myles , J . END
+Perplexity: 36.5685
+
+Sentence 577:
+Text: START Dollard , was it ? END
+Perplexity: 19.9733
+
+Sentence 578:
+Text: START As for fay Elizabeth , otherwise carrotty Bess , the gross virgin who inspired _The Merry Wives of Windsor _ , let some meinherr from Almany grope his life long for deephid meanings in the depths of the buckbasket . END
+Perplexity: 15908.3086
+
+Sentence 579:
+Text: START It ’ s about the foot and mouth disease . END
+Perplexity: 11.4616
+
+Sentence 580:
+Text: START Reason . END
+Perplexity: 5.7570
+
+Sentence 581:
+Text: START He turned towards Stephen and said : — Look at the sea . END
+Perplexity: 25.1545
+
+Sentence 582:
+Text: START No nursery work for her , thanks . END
+Perplexity: 338.5797
+
+Sentence 583:
+Text: START Why for the observer impressionability in addition to vigour , corporal proportion and commercial ability ? END
+Perplexity: 757.8508
+
+Sentence 584:
+Text: START Did he remain ? END
+Perplexity: 36.0039
+
+Sentence 585:
+Text: START He had two left feet . END
+Perplexity: 130.0228
+
+Sentence 586:
+Text: START Suppose there ’ s some connection . END
+Perplexity: 68.5329
+
+Sentence 587:
+Text: START Stephen reached back and took the milkjug from the locker . END
+Perplexity: 374.2137
+
+Sentence 588:
+Text: START The night air was certainly now a treat to breathe though Stephen was a bit weak on his pins . END
+Perplexity: 284.6115
+
+Sentence 589:
+Text: START C . ; the rev . END
+Perplexity: 2.3260
+
+Sentence 590:
+Text: START Bloom stoops his back for leapfrog . ) _ BLOOM : I can give you ... END
+Perplexity: 193.7350
+
+Sentence 591:
+Text: START A coat of liver of sulphur . END
+Perplexity: 624.1352
+
+Sentence 592:
+Text: START — Wanted for the country , Mr Power said . END
+Perplexity: 60.8334
+
+Sentence 593:
+Text: START At rest relatively to themselves and to each other . END
+Perplexity: 542.5170
+
+Sentence 594:
+Text: START He approached Larry O ’ Rourke ’ s . END
+Perplexity: 35.7910
+
+Sentence 595:
+Text: START I have passed the way to aunt Sara ’ s . END
+Perplexity: 121.6489
+
+Sentence 596:
+Text: START START : FULL LICENSE THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK To protect the Project Gutenberg-tm mission of promoting the free distribution of electronic works , by using or distributing this work ( or any other work associated in any way with the phrase `` Project Gutenberg `` ) , you agree to comply with all the terms of the Full Project Gutenberg-tm License available with this file or online at URL Section 1 . END
+Perplexity: 1158.3871
+
+Sentence 597:
+Text: START What ? END
+Perplexity: 2.6764
+
+Sentence 598:
+Text: START Who ? END
+Perplexity: 5.3720
+
+Sentence 599:
+Text: START — Say papa , baby . END
+Perplexity: 351.9527
+
+Sentence 600:
+Text: START — See if you can do anything with that , he said . END
+Perplexity: 35.9501
+
+Sentence 601:
+Text: START His life isn ’ t such a bed of roses . END
+Perplexity: 119.5990
+
+Sentence 602:
+Text: START A riddle ! END
+Perplexity: 67.2722
+
+Sentence 603:
+Text: START Mr Bloom walked towards Dawson street , his tongue brushing his teeth smooth . END
+Perplexity: 187.5066
+
+Sentence 604:
+Text: START He wants to go straight . END
+Perplexity: 32.5494
+
+Sentence 605:
+Text: START He scarcely looks thirtyone . END
+Perplexity: 15011.3789
+
+Sentence 606:
+Text: START Richie cocked his lips apout . END
+Perplexity: 5580.5562
+
+Sentence 607:
+Text: START Maud Gonne ’ s letter about taking them off O ’ Connell street at night : disgrace to our Irish capital . END
+Perplexity: 97.4772
+
+Sentence 608:
+Text: START He waited till she had laid the card aside and curled herself back slowly with a snug sigh . END
+Perplexity: 347.9119
+
+Sentence 609:
+Text: START I have sixteen years of black slave labour behind me . END
+Perplexity: 332.6591
+
+Sentence 610:
+Text: START _ ( Bloom half rises . END
+Perplexity: 102.6905
+
+Sentence 611:
+Text: START The operative surgical quality but that he was reluctant to shed human blood even when the end justified the means , preferring , in their natural order , heliotherapy , psychophysicotherapeutics , osteopathic surgery . END
+Perplexity: 4423.1382
+
+Sentence 612:
+Text: START The name of a decisive battle ( forgotten ) , frequently remembered by a decisive officer , major Brian Cooper Tweedy ( remembered ) . END
+Perplexity: 1045.5189
+
+Sentence 613:
+Text: START Intimacy did not occur and the offence complained of by Driscoll , that her virtue was solicited , was not repeated . END
+Perplexity: 390.4012
+
+Sentence 614:
+Text: START copyright law ( does not contain a notice indicating that it is posted with permission of the copyright holder ) , the work can be copied and distributed to anyone in the United States without paying any fees or charges . END
+Perplexity: 311.4759
+
+Sentence 615:
+Text: START P . ; the rev . END
+Perplexity: 2.6519
+
+Sentence 616:
+Text: START Walk on him ! END
+Perplexity: 27.2043
+
+Sentence 617:
+Text: START He proposed to set up there a national fertilising farm to be named _Omphalos_ with an obelisk hewn and erected after the fashion of Egypt and to offer his dutiful yeoman services for the fecundation of any female of what grade of life soever who should there direct to him with the desire of fulfilling the functions of her natural . END
+Perplexity: 2376.2031
+
+Sentence 618:
+Text: START Her tomboy oaths . END
+Perplexity: 3774.7007
+
+Sentence 619:
+Text: START — Consider that done , says Joe . END
+Perplexity: 236.9170
+
+Sentence 620:
+Text: START Knock on the head . END
+Perplexity: 13.6438
+
+Sentence 621:
+Text: START _ ( The door opens . END
+Perplexity: 59.1561
+
+Sentence 622:
+Text: START Declare to God he does . END
+Perplexity: 32.9511
+
+Sentence 623:
+Text: START Gerty MacDowell who was seated near her companions , lost in thought , gazing far away into the distance was , in very truth , as fair a specimen of winsome Irish girlhood as one could wish to see . END
+Perplexity: 356.7331
+
+Sentence 624:
+Text: START Sad thing about poor Dignam , Mr O ’ Rourke . END
+Perplexity: 53.8018
+
+Sentence 625:
+Text: START Tup . END
+Perplexity: 2.0028
+
+Sentence 626:
+Text: START That ’ s the whole secret . END
+Perplexity: 21.3957
+
+Sentence 627:
+Text: START The dressy young blade said it was her husband ’ s that put her in that expectation or at least it ought to be unless she were another Ephesian matron . END
+Perplexity: 448.2177
+
+Sentence 628:
+Text: START O , he simply idolises every bit of her ! END
+Perplexity: 459.6573
+
+Sentence 629:
+Text: START No , she was not so lonely archly miss Douce ’ s head let Mr Lidwell know . END
+Perplexity: 231.6261
+
+Sentence 630:
+Text: START Q . END
+Perplexity: 2.5324
+
+Sentence 631:
+Text: START Stephen asked , opening another book . END
+Perplexity: 265.4727
+
+Sentence 632:
+Text: START — Stand and deliver , says he . END
+Perplexity: 21.0464
+
+Sentence 633:
+Text: START HOW A GREAT DAILY ORGAN IS TURNED OUT Mr Bloom halted behind the foreman ’ s spare body , admiring a glossy crown . END
+Perplexity: 8317.0264
+
+Sentence 634:
+Text: START Old Monks , the dayfather . END
+Perplexity: 134.0171
+
+Sentence 635:
+Text: START How grand we are this morning ! END
+Perplexity: 213.8297
+
+Sentence 636:
+Text: START Maas was the boy . END
+Perplexity: 22.4876
+
+Sentence 637:
+Text: START Amused Buck Mulligan mused in pleasant murmur with himself , selfnodding : — A pleased bottom . END
+Perplexity: 853.8743
+
+Sentence 638:
+Text: START _ ( His head aslant he blesses curtly with fore and middle fingers , imparts the Easter kiss and doubleshuffles off comically , swaying his hat from side to side , shrinking quickly to the size of his trainbearers . END
+Perplexity: 2764.8594
+
+Sentence 639:
+Text: START Number eighty still unlet . END
+Perplexity: 3352.1694
+
+Sentence 640:
+Text: START — _Pogue mahone ! END
+Perplexity: 139262.0156
+
+Sentence 641:
+Text: START Similarly ? END
+Perplexity: 10.6533
+
+Sentence 642:
+Text: START Quicker . END
+Perplexity: 2.1156
+
+Sentence 643:
+Text: START Shakespeare , Brian Confucius , Murtagh Gutenberg , Patricio Velasquez , Captain Nemo , Tristan and Isolde , the first Prince of Wales , Thomas Cook and Son , the Bold Soldier Boy , Arrah na Pogue , Dick Turpin , Ludwig Beethoven , the Colleen Bawn , Waddler Healy , Angus the Culdee , Dolly Mount , Sidney Parade , Ben Howth , Valentine Greatrakes , Adam and Eve , Arthur Wellesley , Boss Croker , Herodotus , Jack the Giantkiller , Gautama Buddha , Lady Godiva , The Lily of Killarney , Balor of the Evil Eye , the Queen of Sheba , Acky Nagle , Joe Nagle , Alessandro Volta , Jeremiah O ’ Donovan Rossa , Don Philip O ’ Sullivan Beare . END
+Perplexity: 20559.3340
+
+Sentence 644:
+Text: START And she did bedad . END
+Perplexity: 234.3147
+
+Sentence 645:
+Text: START Scoffing up stewgravy with sopping sippets of bread . END
+Perplexity: 9646.6592
+
+Sentence 646:
+Text: START Apologise . END
+Perplexity: 2.5191
+
+Sentence 647:
+Text: START — Even money , Lenehan said returning . END
+Perplexity: 540.7321
+
+Sentence 648:
+Text: START Off her beat here . END
+Perplexity: 85.0845
+
+Sentence 649:
+Text: START — I should like to know , he said , which brother you ... END
+Perplexity: 99.6357
+
+Sentence 650:
+Text: START Because he closed my carriage door outside sir Thornley Stoker ’ s one sleety day during the cold snap of February ninetythree when even the grid of the wastepipe and the ballstop in my bath cistern were frozen . END
+Perplexity: 8409.0889
+
+Sentence 651:
+Text: START Geld him . END
+Perplexity: 58.3420
+
+Sentence 652:
+Text: START _It grew bigger and bigger and bigger _ . END
+Perplexity: 621.0685
+
+Sentence 653:
+Text: START He ’ s out in pampooties to murder you . END
+Perplexity: 160.6578
+
+Sentence 654:
+Text: START Don ’ t cast your nasturtiums on my character . END
+Perplexity: 159.9155
+
+Sentence 655:
+Text: START Meade ’ s timberyard . END
+Perplexity: 29.4329
+
+Sentence 656:
+Text: START Mr Dedalus sighed resignedly . END
+Perplexity: 123.4286
+
+Sentence 657:
+Text: START With an adroit snap he catches it and bites it through with a crack . ) _ KITTY : _ ( Chewing . ) _ The engineer I was with at the bazaar does have lovely ones . END
+Perplexity: 475.1035
+
+Sentence 658:
+Text: START he said again . END
+Perplexity: 6.6636
+
+Sentence 659:
+Text: START Consumed . END
+Perplexity: 3.5734
+
+Sentence 660:
+Text: START Long and the short of it . END
+Perplexity: 61.1724
+
+Sentence 661:
+Text: START Or so they allege . END
+Perplexity: 309.0417
+
+Sentence 662:
+Text: START _ ( With regret he lets the unrolled crubeen and trotter slide . END
+Perplexity: 718.2554
+
+Sentence 663:
+Text: START Nine glorias for shooting a bishop . END
+Perplexity: 2673.2529
+
+Sentence 664:
+Text: START — Where was that , Myles ? END
+Perplexity: 97.2936
+
+Sentence 665:
+Text: START Ay , very like a whale . END
+Perplexity: 204.9395
+
+Sentence 666:
+Text: START Shoulders . END
+Perplexity: 3.7998
+
+Sentence 667:
+Text: START Project Gutenberg-tm eBooks are often created from several printed editions , all of which are confirmed as not protected by copyright in the U . S . END
+Perplexity: 392.6870
+
+Sentence 668:
+Text: START Got money somewhere . END
+Perplexity: 142.9158
+
+Sentence 669:
+Text: START Wine soaked and softened rolled pith of bread mustard a moment mawkish cheese . END
+Perplexity: 46820.6602
+
+Sentence 670:
+Text: START I mean ... END
+Perplexity: 34.3567
+
+Sentence 671:
+Text: START _ ( The two whores rush to the halldoor . END
+Perplexity: 155.5216
+
+Sentence 672:
+Text: START How quickly he does that job . END
+Perplexity: 98.8743
+
+Sentence 673:
+Text: START _ ( He follows , followed by the sniffing terrier . END
+Perplexity: 139.3378
+
+Sentence 674:
+Text: START _Kyrios ! _ Shining word ! END
+Perplexity: 1825.3538
+
+Sentence 675:
+Text: START — That ’ s a fine old custom , he said . END
+Perplexity: 29.9256
+
+Sentence 676:
+Text: START Where did I ? END
+Perplexity: 16.0756
+
+Sentence 677:
+Text: START Laughter of men from the lane . END
+Perplexity: 41.7716
+
+Sentence 678:
+Text: START _ ( With gibbering baboon ’ s cries he jerks his hips in the cynical spasm . ) _ Hik ! END
+Perplexity: 1846.4857
+
+Sentence 679:
+Text: START Van . END
+Perplexity: 3.5538
+
+Sentence 680:
+Text: START The lefthand dead shot . END
+Perplexity: 3012.0781
+
+Sentence 681:
+Text: START We hereby nominate our faithful charger Copula Felix hereditary Grand Vizier and announce that we have this day repudiated our former spouse and have bestowed our royal hand upon the princess Selene , the splendour of night . END
+Perplexity: 12861.4209
+
+Sentence 682:
+Text: START In Clohissey ’ s window a faded 1860 print of Heenan boxing Sayers held his eye . END
+Perplexity: 3450.3196
+
+Sentence 683:
+Text: START Robert Emmet was buried here by torchlight , wasn ’ t he ? END
+Perplexity: 95.7063
+
+Sentence 684:
+Text: START I mean , whether Hamlet is Shakespeare or James I or Essex . END
+Perplexity: 508.2538
+
+Sentence 685:
+Text: START — There was a battle , sir . END
+Perplexity: 67.4598
+
+Sentence 686:
+Text: START Wait . END
+Perplexity: 2.2385
+
+Sentence 687:
+Text: START Pfuiiiiiii ! END
+Perplexity: 6.2932
+
+Sentence 688:
+Text: START Something to hand on . END
+Perplexity: 36.1556
+
+Sentence 689:
+Text: START Dignam ( son ) , Bernard Corrigan ( brother-in-law ) , Jno . END
+Perplexity: 377.4371
+
+Sentence 690:
+Text: START Keyes . END
+Perplexity: 2.8782
+
+Sentence 691:
+Text: START Stowing in the wreaths probably . END
+Perplexity: 101.6771
+
+Sentence 692:
+Text: START — That ’ s where he ’ s gone , says Lenehan . END
+Perplexity: 14.0606
+
+Sentence 693:
+Text: START THE LOITERERS : Jays , that ’ s a good one . END
+Perplexity: 74.5923
+
+Sentence 694:
+Text: START The flow of the language it is . END
+Perplexity: 63.6982
+
+Sentence 695:
+Text: START And Gerty , rapt in thought , scarce saw or heard her companions or the twins at their boyish gambols or the gentleman off Sandymount green that Cissy Caffrey called the man that was so like himself passing along the strand taking a short walk . END
+Perplexity: 923.8228
+
+Sentence 696:
+Text: START The troop of bare feet was heard rushing along the hallway and pattering up the staircase . END
+Perplexity: 775.3811
+
+Sentence 697:
+Text: START She said thereto that she had seen many births of women but never was none so hard as was that woman ’ s birth . END
+Perplexity: 248.2020
+
+Sentence 698:
+Text: START They had no idea it was that high . END
+Perplexity: 56.6907
+
+Sentence 699:
+Text: START Walking by Doran ’ s publichouse he slid his hand between his waistcoat and trousers and , pulling aside his shirt gently , felt a slack fold of his belly . END
+Perplexity: 309.4788
+
+Sentence 700:
+Text: START — In a knockingshop it was count of a tryon between two smugglers . END
+Perplexity: 1704.0979
+
+Sentence 701:
+Text: START Wagging his ear . END
+Perplexity: 32.7605
+
+Sentence 702:
+Text: START Nausea . END
+Perplexity: 3.6177
+
+Sentence 703:
+Text: START Stars all around suns turn roundabout . END
+Perplexity: 2537.1172
+
+Sentence 704:
+Text: START To compare the various joys we each enjoy . END
+Perplexity: 1966.8301
+
+Sentence 705:
+Text: START The policeman touched his forehead . END
+Perplexity: 244.9288
+
+Sentence 706:
+Text: START Damn all else they are good for . END
+Perplexity: 172.5341
+
+Sentence 707:
+Text: START Glad to see us go we give them such trouble coming . END
+Perplexity: 205.4695
+
+Sentence 708:
+Text: START Haines ! END
+Perplexity: 10.0531
+
+Sentence 709:
+Text: START I daresay he needs it to sleep somewhere . END
+Perplexity: 346.8135
+
+Sentence 710:
+Text: START And now it was an office or something . END
+Perplexity: 35.0941
+
+Sentence 711:
+Text: START Tupper , wealthy Chicago contractor , finds pretty but faithless wife in lap of officer Taylor . END
+Perplexity: 9352.0918
+
+Sentence 712:
+Text: START Psha ! END
+Perplexity: 1.7439
+
+Sentence 713:
+Text: START The sailor grimaced , chewing , in a way that might be read as yes , ay or no . END
+Perplexity: 168.1984
+
+Sentence 714:
+Text: START Silver threads among the grey . END
+Perplexity: 387.9715
+
+Sentence 715:
+Text: START Brewery barge with export stout . END
+Perplexity: 1967.4604
+
+Sentence 716:
+Text: START You might go farther and fare worse . END
+Perplexity: 405.8290
+
+Sentence 717:
+Text: START Und alle Schiffe brücken . END
+Perplexity: 95071.0156
+
+Sentence 718:
+Text: START Come on , you dog-gone , bullnecked , beetlebrowed , hogjowled , peanutbrained , weaseleyed fourflushers , false alarms and excess baggage ! END
+Perplexity: 18673.4316
+
+Sentence 719:
+Text: START The way they spring those questions on you . END
+Perplexity: 179.2695
+
+Sentence 720:
+Text: START was telling us there was an ancient Hebrew Zaretsky or something weeping in the witnessbox with his hat on him , swearing by the holy Moses he was stuck for two quid . END
+Perplexity: 227.0244
+
+Sentence 721:
+Text: START As he and others see me . END
+Perplexity: 69.0540
+
+Sentence 722:
+Text: START Sit tight there . END
+Perplexity: 35.7763
+
+Sentence 723:
+Text: START Krandlkrankran . END
+Perplexity: 2.1301
+
+Sentence 724:
+Text: START — Did you finish it ? END
+Perplexity: 31.3956
+
+Sentence 725:
+Text: START I will , sir . END
+Perplexity: 12.8550
+
+Sentence 726:
+Text: START Something detective read off blottingpad . END
+Perplexity: 4721.4907
+
+Sentence 727:
+Text: START The Foundation 's business office is located at 809 North 1500 West , Salt Lake City , UT 84116 , ( 801 ) 596-1887 . END
+Perplexity: 79350.4609
+
+Sentence 728:
+Text: START Never on the spot when wanted but in quiet parts of the city , Pembroke road for example , the guardians of the law were well in evidence , the obvious reason being they were paid to protect the upper classes . END
+Perplexity: 321.0434
+
+Sentence 729:
+Text: START Throb , a throb , a pulsing proud erect . END
+Perplexity: 926.3840
+
+Sentence 730:
+Text: START J . , a postcard is publication . END
+Perplexity: 106.2567
+
+Sentence 731:
+Text: START Cours la Reine . END
+Perplexity: 1294.7327
+
+Sentence 732:
+Text: START Have you a swaggerroot ? END
+Perplexity: 311.9468
+
+Sentence 733:
+Text: START She had no intention of being at their beck and call . END
+Perplexity: 234.5397
+
+Sentence 734:
+Text: START The first in the lilacgarden of Matthew Dillon ’ s house , Medina Villa , Kimmage road , Roundtown , in 1887 , in the company of Stephen ’ s mother , Stephen being then of the age of 5 and reluctant to give his hand in salutation . END
+Perplexity: 287.1627
+
+Sentence 735:
+Text: START He slunk back in a curve . END
+Perplexity: 349.5385
+
+Sentence 736:
+Text: START Maximilian Karl O ’ Donnell , graf von Tirconnell in Ireland . END
+Perplexity: 3763.8018
+
+Sentence 737:
+Text: START _ ( He taps his brow . ) _ But in here it is I must kill the priest and the king . END
+Perplexity: 72.0333
+
+Sentence 738:
+Text: START It ’ s just the cutest snappiest line out . END
+Perplexity: 961.5160
+
+Sentence 739:
+Text: START Don ’ t maul them pieces , young one . END
+Perplexity: 559.8571
+
+Sentence 740:
+Text: START Aren ’ t they trying to make an _Entente cordiale _ now at Tay Pay ’ s dinnerparty with perfidious Albion ? END
+Perplexity: 2300.2886
+
+Sentence 741:
+Text: START But lady Maxwell had come . END
+Perplexity: 397.4893
+
+Sentence 742:
+Text: START BELLO : Down ! END
+Perplexity: 31.8145
+
+Sentence 743:
+Text: START Hair strong in rut . END
+Perplexity: 395.6910
+
+Sentence 744:
+Text: START _Sin : Principes persecuti sunt me gratis : et a verbis tuis formidavit cor meum . _ * * * Corny Kelleher closed his long daybook and glanced with his drooping eye at a pine coffinlid sentried in a corner . END
+Perplexity: 9464.4258
+
+Sentence 745:
+Text: START First gentleman told Mina that was so . END
+Perplexity: 463.0763
+
+Sentence 746:
+Text: START He has a delicate mauve face . END
+Perplexity: 219.2692
+
+Sentence 747:
+Text: START O . END
+Perplexity: 2.9958
+
+Sentence 748:
+Text: START First turn to the left . END
+Perplexity: 59.4571
+
+Sentence 749:
+Text: START Only a little burnt . END
+Perplexity: 32.3478
+
+Sentence 750:
+Text: START Must be strange not to see her . END
+Perplexity: 40.0240
+
+Sentence 751:
+Text: START Cider that was . END
+Perplexity: 17.7186
+
+Sentence 752:
+Text: START Too hot to quarrel . END
+Perplexity: 183.2974
+
+Sentence 753:
+Text: START The nethermost deck of the first machine jogged forward its flyboard with sllt the first batch of quirefolded papers . END
+Perplexity: 6850.9321
+
+Sentence 754:
+Text: START Lean , he lay back . END
+Perplexity: 35.6777
+
+Sentence 755:
+Text: START Men wondered . END
+Perplexity: 294.3339
+
+Sentence 756:
+Text: START — I ’ m giving you two lumps each , he said . END
+Perplexity: 29.8058
+
+Sentence 757:
+Text: START Come around with the plate perhaps . END
+Perplexity: 151.0032
+
+Sentence 758:
+Text: START North or south , however , it was just the wellknown case of hot passion , pure and simple , upsetting the applecart with a vengeance and just bore out the very thing he was saying as she also was Spanish or half so , types that wouldn ’ t do things by halves , passionate abandon of the south , casting every shred of decency to the winds . END
+Perplexity: 593.9961
+
+Sentence 759:
+Text: START J . END
+Perplexity: 1.0785
+
+Sentence 760:
+Text: START — What about that ? END
+Perplexity: 20.2164
+
+Sentence 761:
+Text: START Thump . END
+Perplexity: 2.6269
+
+Sentence 762:
+Text: START Face of the all is lost . END
+Perplexity: 71.4135
+
+Sentence 763:
+Text: START And the bloody dog woke up and let a growl . END
+Perplexity: 153.3678
+
+Sentence 764:
+Text: START Why I bought her the violet garters . END
+Perplexity: 97.8124
+
+Sentence 765:
+Text: START — If we could live on good food like that , he said to her somewhat loudly , we wouldn ’ t have the country full of rotten teeth and rotten guts . END
+Perplexity: 167.2493
+
+Sentence 766:
+Text: START For me this . END
+Perplexity: 23.9088
+
+Sentence 767:
+Text: START Dan Occam thought of that , invincible doctor . END
+Perplexity: 1245.7891
+
+Sentence 768:
+Text: START A shade of mauve tissuepaper dims the light of the chandelier . END
+Perplexity: 673.7203
+
+Sentence 769:
+Text: START He got that kink , fascinated by sister ’ s stays . END
+Perplexity: 1687.2533
+
+Sentence 770:
+Text: START And Cissy told him too that billy winks was coming and that baby was to go deedaw and baby looked just too ducky , laughing up out of his gleeful eyes , and Cissy poked him like that out of fun in his wee fat tummy and baby , without as much as by your leave , sent up his compliments to all and sundry on to his brandnew dribbling bib . END
+Perplexity: 1006.0580
+
+Sentence 771:
+Text: START Still his gaiety takes the harm out of it somehow , doesn ’ t it ? END
+Perplexity: 140.5576
+
+Sentence 772:
+Text: START Cissy Caffrey whistled , imitating the boys in the football field to show what a great person she was : and then she cried : — Gerty ! END
+Perplexity: 234.7433
+
+Sentence 773:
+Text: START Shrunken skull . END
+Perplexity: 131.3349
+
+Sentence 774:
+Text: START And as he stepped fussily back across the field his old man ’ s voice cried sternly : — What is the matter ? END
+Perplexity: 264.9870
+
+Sentence 775:
+Text: START Mr Bloom gave prudent assent . END
+Perplexity: 408.0802
+
+Sentence 776:
+Text: START The violet silk petticoats . END
+Perplexity: 266.5088
+
+Sentence 777:
+Text: START Where are the Greek merchants that came through the pillars of Hercules , the Gibraltar now grabbed by the foe of mankind , with gold and Tyrian purple to sell in Wexford at the fair of Carmen ? END
+Perplexity: 1072.6639
+
+Sentence 778:
+Text: START They would hear what counsel had to say in his stirring address to the grand jury . END
+Perplexity: 337.3567
+
+Sentence 779:
+Text: START O , that ’ s the style . END
+Perplexity: 11.0905
+
+Sentence 780:
+Text: START Evening . END
+Perplexity: 4.7530
+
+Sentence 781:
+Text: START _ ( He takes part in a stomach race with elderly male and female cripples . ) _ Come on , boys ! END
+Perplexity: 289.9340
+
+Sentence 782:
+Text: START Nor in the stagnant bay of Marsh ’ s library where you read the fading prophecies of Joachim Abbas . END
+Perplexity: 3613.5251
+
+Sentence 783:
+Text: START No such ass . END
+Perplexity: 806.8480
+
+Sentence 784:
+Text: START He went in . END
+Perplexity: 29.4361
+
+Sentence 785:
+Text: START A large bucket . END
+Perplexity: 77.3783
+
+Sentence 786:
+Text: START I never borrowed a shilling in my life . _ Can you feel that ? END
+Perplexity: 65.4601
+
+Sentence 787:
+Text: START Sixteenth . END
+Perplexity: 4.0113
+
+Sentence 788:
+Text: START Curious , fifteenth of the month too . END
+Perplexity: 224.9485
+
+Sentence 789:
+Text: START Rescue of fallen women . END
+Perplexity: 342.8268
+
+Sentence 790:
+Text: START Tantalising for the poor dead . END
+Perplexity: 30.7515
+
+Sentence 791:
+Text: START Rats get in too . END
+Perplexity: 129.6294
+
+Sentence 792:
+Text: START Solemn . END
+Perplexity: 2.6225
+
+Sentence 793:
+Text: START somewhere ) and the fictitious addressee of the missive which made him nourish some suspicions of our friend ’ s _bona fides _ nevertheless it reminded him in a way of a longcherished plan he meant to one day realise some Wednesday or Saturday of travelling to London _via_ long sea not to say that he had ever travelled extensively to any great extent but he was at heart a born adventurer though by a trick of fate he had consistently remained a landlubber except you call going to Holyhead which was his longest . END
+Perplexity: 3462.7073
+
+Sentence 794:
+Text: START Kavanagh , C . END
+Perplexity: 11.7425
+
+Sentence 795:
+Text: START Lenehan linked his arm warmly . END
+Perplexity: 1555.1971
+
+Sentence 796:
+Text: START Consort not even a king . END
+Perplexity: 50.1632
+
+Sentence 797:
+Text: START The splendid proportions of hips , bosom . END
+Perplexity: 951.4258
+
+Sentence 798:
+Text: START Pull it more to your side . END
+Perplexity: 92.3807
+
+Sentence 799:
+Text: START Duel by combat , no . END
+Perplexity: 200.2885
+
+Sentence 800:
+Text: START Daughter working the machine in the parlour . END
+Perplexity: 250.7651
+
+Sentence 801:
+Text: START Liszt ’ s rhapsodies . END
+Perplexity: 59.2625
+
+Sentence 802:
+Text: START Look at them . END
+Perplexity: 6.8308
+
+Sentence 803:
+Text: START — Yes , says Alf . END
+Perplexity: 5.4006
+
+Sentence 804:
+Text: START Terrific explosions they are . END
+Perplexity: 1003.4665
+
+Sentence 805:
+Text: START Reverently look at her as she reclines there with the motherlight in her eyes , that longing hunger for baby fingers ( a pretty sight it is to see ) , in the first bloom of her new motherhood , breathing a silent prayer of thanksgiving to One above , the Universal Husband . END
+Perplexity: 893.3872
+
+Sentence 806:
+Text: START Since Easter he had cursed three times . END
+Perplexity: 424.2502
+
+Sentence 807:
+Text: START _Notre ami _ Moore says Malachi Mulligan must be there . END
+Perplexity: 1767.1456
+
+Sentence 808:
+Text: START But this is the point . END
+Perplexity: 28.6573
+
+Sentence 809:
+Text: START Well , well . END
+Perplexity: 9.2224
+
+Sentence 810:
+Text: START How do you sniff ? END
+Perplexity: 63.0901
+
+Sentence 811:
+Text: START Then that bawler in Barney Kiernan ’ s . END
+Perplexity: 85.2673
+
+Sentence 812:
+Text: START I hope that smallpox up there doesn ’ t get worse . END
+Perplexity: 213.5936
+
+Sentence 813:
+Text: START And , spent , its speech ceases . END
+Perplexity: 763.3395
+
+Sentence 814:
+Text: START Mr Bloom effaced the letters with his slow boot . END
+Perplexity: 159.2804
+
+Sentence 815:
+Text: START His fustian shirt , sanguineflowered , trembles its Spanish tassels at his secrets . END
+Perplexity: 2971.6833
+
+Sentence 816:
+Text: START It was dark brown with a natural wave in it . END
+Perplexity: 130.6917
+
+Sentence 817:
+Text: START _ ( He disappears into Olhausen ’ s , the porkbutcher ’ s , under the downcoming rollshutter . END
+Perplexity: 401.9535
+
+Sentence 818:
+Text: START A million pounds , wait a moment . END
+Perplexity: 74.5032
+
+Sentence 819:
+Text: START Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1 . E . 1 . END
+Perplexity: 374.5995
+
+Sentence 820:
+Text: START And his first child a girl ? END
+Perplexity: 158.8818
+
+Sentence 821:
+Text: START Temple , two lunches . END
+Perplexity: 473.9407
+
+Sentence 822:
+Text: START That day ! END
+Perplexity: 64.8870
+
+Sentence 823:
+Text: START And as for the lessee or keeper , who probably wasn ’ t the other person at all , he ( B . ) couldn ’ t help feeling and most properly it was better to give people like that the goby unless you were a blithering idiot altogether and refuse to have anything to do with them as a golden rule in private life and their felonsetting , there always being the offchance of a Dannyman coming forward and turning queen ’ s evidence or king ’ s now like Denis or Peter Carey , an idea he utterly repudiated . END
+Perplexity: 794.7913
+
+Sentence 824:
+Text: START Bloom ( Pubb . END
+Perplexity: 10.2364
+
+Sentence 825:
+Text: START _Dominus ! _ Lord ! END
+Perplexity: 120.6689
+
+Sentence 826:
+Text: START Trieste-Zurich-Paris 1914-1921 * * * END OF THE PROJECT GUTENBERG EBOOK ULYSSES * * * * * * This file should be named 4300-0.txt or 4300-0.zip * * * This and all associated files of various formats will be found in : URL Updated editions will replace the previous one -- the old editions will be renamed . END
+Perplexity: 1617.1122
+
+Sentence 827:
+Text: START He closed his long thin lips an instant but , eager to be on , raised an outspanned hand to his spectacles and , with trembling thumb and ringfinger touching lightly the black rims , steadied them to a new focus . END
+Perplexity: 1393.5261
+
+Sentence 828:
+Text: START That ’ s why she ’ s left on the shelf and the others did a sprint . END
+Perplexity: 54.2275
+
+Sentence 829:
+Text: START Keep that thing up for hours . END
+Perplexity: 100.2528
+
+Sentence 830:
+Text: START — Ahem ! END
+Perplexity: 1085.6239
+
+Sentence 831:
+Text: START Ugh , that rat ’ s tail wriggling ! END
+Perplexity: 189.7612
+
+Sentence 832:
+Text: START Ceasing , he began to shave with care . END
+Perplexity: 43.9177
+
+Sentence 833:
+Text: START Mr Dedalus said , returning with fetched pipe . END
+Perplexity: 104.3013
+
+Sentence 834:
+Text: START The threemaster _Rosevean_ from Bridgwater with bricks . END
+Perplexity: 245.4702
+
+Sentence 835:
+Text: START BLOOM : _ ( Looks behind . ) _ She often said she ’ d like to visit . END
+Perplexity: 29.4976
+
+Sentence 836:
+Text: START A pad . END
+Perplexity: 24.5014
+
+Sentence 837:
+Text: START and the African Mission . END
+Perplexity: 64.7686
+
+Sentence 838:
+Text: START Give the paw . END
+Perplexity: 4.2176
+
+Sentence 839:
+Text: START — As for his family , Stephen said , his mother ’ s name lives in the forest of Arden . END
+Perplexity: 90.4823
+
+Sentence 840:
+Text: START Vehement breath of waters amid seasnakes , rearing horses , rocks . END
+Perplexity: 2936.4502
+
+Sentence 841:
+Text: START Going under the railway arch he took out the envelope , tore it swiftly in shreds and scattered them towards the road . END
+Perplexity: 331.7073
+
+Sentence 842:
+Text: START Besides they have so little taste in dress , most of them , which greatly enhances a woman ’ s natural beauty , no matter what you say . END
+Perplexity: 213.2263
+
+Sentence 843:
+Text: START Fell and cut it twentytwo years ago . END
+Perplexity: 184.7594
+
+Sentence 844:
+Text: START O ’ Molloy said , taking out a cigarettecase in murmuring meditation , but it is not always as it seems . END
+Perplexity: 100.4992
+
+Sentence 845:
+Text: START — Wait awhile , Mr Dedalus said threateningly . END
+Perplexity: 401.8297
+
+Sentence 846:
+Text: START Keys : like Keyes ’ s ad : no fear of anyone getting out . END
+Perplexity: 243.3836
+
+Sentence 847:
+Text: START Such as ? END
+Perplexity: 37.5610
+
+Sentence 848:
+Text: START All his alabaster lilypots . END
+Perplexity: 3111.6597
+
+Sentence 849:
+Text: START Will happen , yes . END
+Perplexity: 15.5663
+
+Sentence 850:
+Text: START Shake hands . END
+Perplexity: 11.7759
+
+Sentence 851:
+Text: START That ’ s why she won ’ t . END
+Perplexity: 9.1347
+
+Sentence 852:
+Text: START The black panther ! END
+Perplexity: 32.4909
+
+Sentence 853:
+Text: START He peeped quickly inside the leather headband . END
+Perplexity: 164.0233
+
+Sentence 854:
+Text: START _ ( The brass quoits of a bed are heard to jingle . ) _ THE QUOITS : Jigjag . END
+Perplexity: 151.1868
+
+Sentence 855:
+Text: START Can ’ t you drink that coffee , by the way ? END
+Perplexity: 35.8869
+
+Sentence 856:
+Text: START Good night . END
+Perplexity: 5.5058
+
+Sentence 857:
+Text: START — Are you going ? END
+Perplexity: 8.5873
+
+Sentence 858:
+Text: START Then , turning to Father Cowley with a nod , he muttered sneeringly : — That ’ s a pretty garment , isn ’ t it , for a summer ’ s day ? END
+Perplexity: 92.0037
+
+Sentence 859:
+Text: START Under what guidance , following what signs ? END
+Perplexity: 1225.7107
+
+Sentence 860:
+Text: START And you think you ’ re listening to the etherial . END
+Perplexity: 53.1846
+
+Sentence 861:
+Text: START — Wise virgins , professor MacHugh said . END
+Perplexity: 143.5529
+
+Sentence 862:
+Text: START He wrote to me that he was miserable . END
+Perplexity: 161.2824
+
+Sentence 863:
+Text: START Mulligan will dub me a new name : the bullockbefriending bard . END
+Perplexity: 613.9224
+
+Sentence 864:
+Text: START _Kyrie ! _ The radiance of the intellect . END
+Perplexity: 115.3532
+
+Sentence 865:
+Text: START BLOOM : _ ( Offhandedly . ) _ Kosher . END
+Perplexity: 40.3170
+
+Sentence 866:
+Text: START Lotty Clarke , flaxenhaired , I saw at her night toilette through illclosed curtains with poor papa ’ s operaglasses : The wanton ate grass wildly . END
+Perplexity: 6556.9414
+
+Sentence 867:
+Text: START From Chickabiddy ’ s owny Mumpsypum . END
+Perplexity: 35578.2344
+
+Sentence 868:
+Text: START Baraabum ! ) _ TUTTI : Encore ! END
+Perplexity: 316.6988
+
+Sentence 869:
+Text: START Get down , baldpoll ! END
+Perplexity: 527.1729
+
+Sentence 870:
+Text: START — Ay . END
+Perplexity: 15.7229
+
+Sentence 871:
+Text: START Outside them and through them ran raddled sheep bleating their fear . END
+Perplexity: 2532.7307
+
+Sentence 872:
+Text: START And a pound and a half of Denny ’ s sausages . END
+Perplexity: 185.3194
+
+Sentence 873:
+Text: START p : up . END
+Perplexity: 4.6551
+
+Sentence 874:
+Text: START Appointment we made knowing we ’ d never , well hardly ever . END
+Perplexity: 442.2881
+
+Sentence 875:
+Text: START Out of the fryingpan of life into the fire of purgatory . END
+Perplexity: 135.7027
+
+Sentence 876:
+Text: START The quaker librarian , quaking , tiptoed in , quake , his mask , quake , with haste , quake , quack . END
+Perplexity: 1241.9723
+
+Sentence 877:
+Text: START Want to try in the dark to see . END
+Perplexity: 24.6412
+
+Sentence 878:
+Text: START The curse of my curses Seven days every day And seven dry Thursdays On you , Barney Kiernan , Has no sup of water To cool my courage , And my guts red roaring After Lowry ’ s lights . END
+Perplexity: 5555.1377
+
+Sentence 879:
+Text: START THE NYMPH : _ ( With wide fingers . ) _ O , infamy ! END
+Perplexity: 28.7888
+
+Sentence 880:
+Text: START Dedalus ’ ( Div . END
+Perplexity: 12.4130
+
+Sentence 881:
+Text: START Terrible , terrible ! END
+Perplexity: 120.1047
+
+Sentence 882:
+Text: START Her feeding cup and rubbing her mouth with the spoon . END
+Perplexity: 343.5650
+
+Sentence 883:
+Text: START Spattered with size and lime of their lodges they frisk limblessly about him . ) _ BLOOM : Coincidence too . END
+Perplexity: 1274.0684
+
+Sentence 884:
+Text: START Respect . END
+Perplexity: 3.7212
+
+Sentence 885:
+Text: START Say , thank you , mistress . END
+Perplexity: 37.4554
+
+Sentence 886:
+Text: START Scaring eavesdropping boots croppy bootsboy Bloom in the Ormond hallway heard the growls and roars of bravo , fat backslapping , their boots all treading , boots not the boots the boy . END
+Perplexity: 3804.9917
+
+Sentence 887:
+Text: START Afar , in a reek of lust and squalor , hands are laid on whiteness . END
+Perplexity: 623.9683
+
+Sentence 888:
+Text: START The vocal muse . END
+Perplexity: 688.7785
+
+Sentence 889:
+Text: START Clouding over . END
+Perplexity: 51.5381
+
+Sentence 890:
+Text: START Ned Lambert said softly , clasping hands . END
+Perplexity: 94.4329
+
+Sentence 891:
+Text: START Good fellow ! END
+Perplexity: 18.1959
+
+Sentence 892:
+Text: START A lovely girl , her veil awave upon the wind upon the headland , wind around her . END
+Perplexity: 557.2679
+
+Sentence 893:
+Text: START You say right , sir . END
+Perplexity: 29.6493
+
+Sentence 894:
+Text: START The voice of penance and of grief came slow , embellished , tremulous . END
+Perplexity: 1653.1094
+
+Sentence 895:
+Text: START Lydia for Lidwell squeak scarcely hear so ladylike the muse unsqueaked a ray of hopk . END
+Perplexity: 21650.5293
+
+Sentence 896:
+Text: START E . , on the instructions of the waterworks committee had prohibited the use of municipal water for purposes other than those of consumption ( envisaging the possibility of recourse being had to the impotable water of the Grand and Royal canals as in 1893 ) particularly as the South Dublin Guardians , notwithstanding their ration of 15 gallons per day per pauper supplied through a 6 inch meter , had been convicted of a wastage of 20,000 gallons per night by a reading of their meter on the affirmation of the law agent of the corporation , Mr Ignatius Rice , solicitor , thereby acting to the detriment of another section of the public , selfsupporting taxpayers , solvent , sound . END
+Perplexity: 2292.0090
+
+Sentence 897:
+Text: START Boccaccio ’ s Calandrino was the first and last man who felt himself with child . END
+Perplexity: 288.0254
+
+Sentence 898:
+Text: START That was the rule , said . END
+Perplexity: 55.0740
+
+Sentence 899:
+Text: START A veil awave upon the waves . END
+Perplexity: 1772.8003
+
+Sentence 900:
+Text: START Tap . END
+Perplexity: 1.1248
+
+Sentence 901:
+Text: START Lady in the case . END
+Perplexity: 15.0196
+
+Sentence 902:
+Text: START His name was Brunny Lynam . END
+Perplexity: 171.4844
+
+Sentence 903:
+Text: START To , fro . END
+Perplexity: 48.3779
+
+Sentence 904:
+Text: START Stephen dissented openly from Bloom ’ s views on the importance of dietary and civic selfhelp while Bloom dissented tacitly from Stephen ’ s views on the eternal affirmation of the spirit of man in literature . END
+Perplexity: 1810.1447
+
+Sentence 905:
+Text: START Am I right ? END
+Perplexity: 52.7781
+
+Sentence 906:
+Text: START You and I are the fat in the fire . END
+Perplexity: 69.8781
+
+Sentence 907:
+Text: START The hero folded her willowy form in a loving embrace murmuring fondly _Sheila , my own _ . END
+Perplexity: 6642.7036
+
+Sentence 908:
+Text: START Do you know anything about Pyrrhus ? END
+Perplexity: 99.5936
+
+Sentence 909:
+Text: START the more experienced of the two objected , sticking to his original point with a smile of unbelief . END
+Perplexity: 709.4177
+
+Sentence 910:
+Text: START Kingstown pier , sir . END
+Perplexity: 19.2293
+
+Sentence 911:
+Text: START says Lenehan . END
+Perplexity: 8.6459
+
+Sentence 912:
+Text: START I mean to say to fellows like Flynn . END
+Perplexity: 210.2244
+
+Sentence 913:
+Text: START Very . END
+Perplexity: 7.2700
+
+Sentence 914:
+Text: START — Yes , that ’ s the man , says J . END
+Perplexity: 6.4380
+
+Sentence 915:
+Text: START All heartily welcome . END
+Perplexity: 358.1394
+
+Sentence 916:
+Text: START A dull ease of the mind . END
+Perplexity: 464.4936
+
+Sentence 917:
+Text: START Son of the wild goose , Kevin Egan of Paris . END
+Perplexity: 69.2817
+
+Sentence 918:
+Text: START New worlds for old . END
+Perplexity: 430.1644
+
+Sentence 919:
+Text: START _ ( Edward the Seventh appears in an archway . END
+Perplexity: 85.6795
+
+Sentence 920:
+Text: START Lenehan announced gladly : — _The Rose of Castile _ . END
+Perplexity: 122.5698
+
+Sentence 921:
+Text: START Good afternoon . END
+Perplexity: 6.2946
+
+Sentence 922:
+Text: START When you think of them all it does seem a waste of wood . END
+Perplexity: 142.8854
+
+Sentence 923:
+Text: START Levanted with the cash of a few ads . END
+Perplexity: 101.5964
+
+Sentence 924:
+Text: START Last night I flew . END
+Perplexity: 95.3831
+
+Sentence 925:
+Text: START The king was in his countinghouse . END
+Perplexity: 74.0905
+
+Sentence 926:
+Text: START Gob , that ’ d be a good pucking match to see . END
+Perplexity: 109.6670
+
+Sentence 927:
+Text: START Little father ! END
+Perplexity: 45.6219
+
+Sentence 928:
+Text: START Skin tanned raw . END
+Perplexity: 17865.8535
+
+Sentence 929:
+Text: START And when her mother had those raging splitting headaches who was it rubbed the menthol cone on her forehead but Gerty though she didn ’ t like her mother ’ s taking pinches of snuff and that was the only single thing they ever had words about , taking snuff . END
+Perplexity: 933.5994
+
+Sentence 930:
+Text: START To revert to Mr Bloom who , after his first entry , had been conscious of some impudent mocks which he however had borne with as being the fruits of that age upon which it is commonly charged that it knows not pity . END
+Perplexity: 1211.8918
+
+Sentence 931:
+Text: START Open like flowers , know their hours , sunflowers , Jerusalem artichokes , in ballrooms , chandeliers , avenues under the lamps . END
+Perplexity: 4700.3032
+
+Sentence 932:
+Text: START Table talk . END
+Perplexity: 72.1571
+
+Sentence 933:
+Text: START The Bruce ’ s brother , Thomas Fitzgerald , silken knight , Perkin Warbeck , York ’ s false scion , in breeches of silk of whiterose ivory , wonder of a day , and Lambert Simnel , with a tail of nans and sutlers , a scullion crowned . END
+Perplexity: 2968.4614
+
+Sentence 934:
+Text: START A dwarf ’ s face , mauve and wrinkled like little Rudy ’ s was . END
+Perplexity: 184.1317
+
+Sentence 935:
+Text: START And two streets off another locking it into a pyx . END
+Perplexity: 2109.8904
+
+Sentence 936:
+Text: START _Liliata rutilantium te confessorum turma circumdet : iubilantium te virginum chorus excipiat . _ Ghoul ! END
+Perplexity: 6522.2407
+
+Sentence 937:
+Text: START Paddy Hooper is there with Jack Hall . END
+Perplexity: 483.5223
+
+Sentence 938:
+Text: START Rather strange he should have just that fixed idea . END
+Perplexity: 322.1907
+
+Sentence 939:
+Text: START _Thoughts from Spinoza _ ( maroon leather ) . END
+Perplexity: 804.2280
+
+Sentence 940:
+Text: START The horse having reached the end of his tether , so to speak , halted and , rearing high a proud feathering tail , added his quota by letting fall on the floor which the brush would soon brush up and polish , three smoking globes of turds . END
+Perplexity: 787.6363
+
+Sentence 941:
+Text: START And therefore when he was urged , As I believe , to name her He left her his Secondbest Bed . END
+Perplexity: 856.8857
+
+Sentence 942:
+Text: START Rockbottom figure and cheap at the price . END
+Perplexity: 182.5664
+
+Sentence 943:
+Text: START Drink me piping hot . END
+Perplexity: 7082.4321
+
+Sentence 944:
+Text: START He was himself a lord of language and had made himself a coistrel gentleman and he had written _Romeo and Juliet _ . END
+Perplexity: 632.4536
+
+Sentence 945:
+Text: START _ ( To Bloom . ) _ Get him away , you . END
+Perplexity: 26.3384
+
+Sentence 946:
+Text: START You found me in evil company , highkickers , coster picnicmakers , pugilists , popular generals , immoral panto boys in fleshtights and the nifty shimmy dancers , La Aurora and Karini , musical act , the hit of the century . END
+Perplexity: 18130.6270
+
+Sentence 947:
+Text: START The carriage halted short . END
+Perplexity: 237.2973
+
+Sentence 948:
+Text: START Mare on form hot order . END
+Perplexity: 625.3193
+
+Sentence 949:
+Text: START Jesus , I had to laugh at the way he came out with that about the old one with the winkers on her , blind drunk in her royal palace every night of God , old Vic , with her jorum of mountain dew and her coachman carting her up body and bones to roll into bed and she pulling him by the whiskers and singing him old bits of songs about _Ehren on the Rhine _ and come where the boose is cheaper . END
+Perplexity: 731.0413
+
+Sentence 950:
+Text: START STEPHEN : _ ( Looks up to the sky . ) _ How ? END
+Perplexity: 16.0230
+
+Sentence 951:
+Text: START O ’ Molloy ’ s white careworn face was told that Mr Lambert was in the warehouse with a visitor . END
+Perplexity: 166.4091
+
+Sentence 952:
+Text: START Be on the side of the angels . END
+Perplexity: 23.2320
+
+Sentence 953:
+Text: START Always know a fellow courting : collars and cuffs . END
+Perplexity: 1104.2496
+
+Sentence 954:
+Text: START He ’ s gone from us . END
+Perplexity: 27.5455
+
+Sentence 955:
+Text: START The driver never said a word , good , bad or indifferent , but merely watched the two figures , as he sat on his lowbacked car , both black , one full , one lean , walk towards the railway bridge , _to be married by Father Maher _ . END
+Perplexity: 674.9595
+
+Sentence 956:
+Text: START Klook Klook Klook . END
+Perplexity: 6.8138
+
+Sentence 957:
+Text: START — Friend of yours , says Alf . END
+Perplexity: 68.9240
+
+Sentence 958:
+Text: START Quick of him all the same . END
+Perplexity: 17.6198
+
+Sentence 959:
+Text: START All those women and children excursion beanfeast burned and drowned in New York . END
+Perplexity: 772.0905
+
+Sentence 960:
+Text: START Their paler smaller negroid hands jingle the twingtwang wires . END
+Perplexity: 27433.6934
+
+Sentence 961:
+Text: START Hai , boy ! END
+Perplexity: 46.7344
+
+Sentence 962:
+Text: START Of course if they ran a tramline along the North Circular from the cattlemarket to the quays value would go up like a shot . END
+Perplexity: 128.0940
+
+Sentence 963:
+Text: START BLOOM : _ ( Closing her eyes . ) _ She ’ s not here . END
+Perplexity: 24.7526
+
+Sentence 964:
+Text: START That was their secret , only theirs , alone in the hiding twilight and there was none to know or tell save the little bat that flew so softly through the evening to and fro and little bats don ’ t tell . END
+Perplexity: 413.1233
+
+Sentence 965:
+Text: START May your shadow never grow less . END
+Perplexity: 1507.3092
+
+Sentence 966:
+Text: START _ — All the dollarbills her husband gave her were spent in the stores on wondrous gowns and costliest frillies . END
+Perplexity: 1525.5416
+
+Sentence 967:
+Text: START See me he might . END
+Perplexity: 34.5671
+
+Sentence 968:
+Text: START Pikes clash on cuirasses . END
+Perplexity: 6160.9985
+
+Sentence 969:
+Text: START _ ( Lynch bends Kitty back over the sofa and kisses her . END
+Perplexity: 143.2836
+
+Sentence 970:
+Text: START Will they wrest from us , from me , the palm of beauty ? END
+Perplexity: 117.8255
+
+Sentence 971:
+Text: START An instant later his head appeared in the door opposite and said : Meet me at Westland Row station at ten past eleven . END
+Perplexity: 498.7404
+
+Sentence 972:
+Text: START Hush ! END
+Perplexity: 4.2298
+
+Sentence 973:
+Text: START The quoits are loose . END
+Perplexity: 430.8751
+
+Sentence 974:
+Text: START A traveller for blottingpaper . END
+Perplexity: 641.3739
+
+Sentence 975:
+Text: START Dion Boucicault business with his harvestmoon face in a poky bonnet . END
+Perplexity: 2588.7751
+
+Sentence 976:
+Text: START It sang again to Richie Poldy Lydia Lidwell also sang to Pat open mouth ear waiting to wait . END
+Perplexity: 983.6120
+
+Sentence 977:
+Text: START C . END
+Perplexity: 1.5125
+
+Sentence 978:
+Text: START _to Flora ’ s lips did hie . _ High , a high note pealed in the treble clear . END
+Perplexity: 1300.3729
+
+Sentence 979:
+Text: START But hey , presto , the mirror is breathed on and the young knighterrant recedes , shrivels , dwindles to a tiny speck within the mist . END
+Perplexity: 995.4642
+
+Sentence 980:
+Text: START — I met M ’ Coy this morning , Mr Bloom said . END
+Perplexity: 17.7498
+
+Sentence 981:
+Text: START says John Wyse . END
+Perplexity: 4.5053
+
+Sentence 982:
+Text: START GENTLEMEN OF THE PRESS Grossbooted draymen rolled barrels dullthudding out of Prince ’ s stores and bumped them up on the brewery float . END
+Perplexity: 962.3751
+
+Sentence 983:
+Text: START There he keened a wailing rune . END
+Perplexity: 2981.8508
+
+Sentence 984:
+Text: START — And who does he suspect ? END
+Perplexity: 124.7725
+
+Sentence 985:
+Text: START BLOOM : _ ( Halts erect , stung by a spasm . ) _ Ow ! END
+Perplexity: 228.0214
+
+Sentence 986:
+Text: START Not twenty I ’ m sure he was . END
+Perplexity: 44.8895
+
+Sentence 987:
+Text: START If there were only ethereal where would you all be , postulants and novices ? END
+Perplexity: 2065.8616
+
+Sentence 988:
+Text: START Iron Nails Ran In . END
+Perplexity: 39228.9180
+
+Sentence 989:
+Text: START Wonder is it like that . END
+Perplexity: 11.6018
+
+Sentence 990:
+Text: START There were wounds that wanted healing with heartbalm . END
+Perplexity: 2737.3806
+
+Sentence 991:
+Text: START Lydia , admired , admired . END
+Perplexity: 103.0528
+
+Sentence 992:
+Text: START The fellows that never will be slaves , with the only hereditary chamber on the face of God ’ s earth and their land in the hands of a dozen gamehogs and cottonball barons . END
+Perplexity: 524.1405
+
+Sentence 993:
+Text: START Long John Fanning could not remember him . END
+Perplexity: 21.7046
+
+Sentence 994:
+Text: START And Able was I ere I saw Elba . END
+Perplexity: 6025.8945
+
+Sentence 995:
+Text: START Not go in and blurt out what you know you ’ re not to : what ’ s parallax ? END
+Perplexity: 220.7702
+
+Sentence 996:
+Text: START On the upper shelf a battery of jamjars ( empty ) of various sizes and proveniences . END
+Perplexity: 2244.5652
+
+Sentence 997:
+Text: START BLOOM : _ ( With rollicking humour . ) _ I vowed that I never would leave her , She turned out a cruel deceiver . END
+Perplexity: 146.5607
+
+Sentence 998:
+Text: START He ’ d give the ad , I think . END
+Perplexity: 28.2675
+
+Sentence 999:
+Text: START Fresh thing was never touched . END
+Perplexity: 514.0130
+
+Sentence 1000:
+Text: START Wallop . END
+Perplexity: 3.3607
+
