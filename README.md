@@ -19,11 +19,11 @@ The models predict the most probable next word given an input sentence.
 
 ```
 ├── generator.py         # Main script for next word prediction
-├── models/
+├── models/              # (not uploaded - please access using link in the report)
 │   ├── ffnn_model.pt    # Pretrained FFNN model
 │   ├── rnn_model.pt     # Pretrained RNN model
-│   ├── lstm_model.pt    # Pretrained LSTM model
-├── corpus/
+│   ├── lstm_model.pt    # Pretrained LSTM model 
+├── data/external
 │   ├── pride_prejudice.txt  # Pride and Prejudice corpus
 │   ├── ulysses.txt          # Ulysses corpus for data processing
 ├── README.md            # Instructions for running the project
